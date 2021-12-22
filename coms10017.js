@@ -1,5 +1,5 @@
 //UNIT DETAILS
-var unitName      = "Object Oriented Programming and Algorithms I";
+var unitName      = "Object Oriented Programming and Algorithms I - Object Oriented Programming Component";
 var unitCode      = "COMS10017";
 var startWeekNum  = 13;                         // start week number [usual start is week 1 or 13]
 var totalWeeks    = 12;                          // total teaching weeks for unit [usually 12]
