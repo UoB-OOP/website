@@ -52,9 +52,9 @@ var activities = [
 
 //WEEK 13
 ["1", "25/01/22 | 2:00pm",  "WELCOME &amp INTRODUCTION",               "https://teams.microsoft.com/l/meetup-join/19%3a3986403e9da04e3698616ade16c3b314%40thread.tacv2/1611937109057?context=%7b%22Tid%22%3a%22b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b%22%2c%22Oid%22%3a%229858a91d-80ab-4cbc-81ee-a630d01eb6f2%22%7d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/pdfs/COMS10017_QA_01.pdf", "0", "0"],
-["0", "in your own time",   "Object's Birth I",       "https://mediasite.bris.ac.uk/Mediasite/Play/3d263018dde94a9c9d598e94402899141d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/pdfs/COMS10017_01.pdf", "0", "2"],
+["0", "in your own time",   "Object's Birth I",       "https://web.microsoftstream.com/video/d073c8ec-9581-4337-8b9f-6ac2955057a0", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/pdfs/COMS10017_01.pdf", "0", "2"],
 ["0", "in your own time",   "Object's Birth II",       "https://mediasite.bris.ac.uk/Mediasite/Play/3d1bc0d3ea53436593b11992a6f470011d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/pdfs/COMS10017_02.pdf", "0", "2"],
-["0", "in your own time",   "Java Basics",       "https://mediasite.bris.ac.uk/Mediasite/Play/9fd225a76b0f48b9b0d312aadcf35f301d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/pdfs/COMS10017_03.pdf", "2", "4"],
+["0", "in your own time",   "Java Basics",       "https://web.microsoftstream.com/video/d0ded4b9-333c-4416-aa69-bd77cffeb078", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/pdfs/COMS10017_03.pdf", "2", "4"],
 ["11","26/01/22 | 10:00am", "SETUP &amp; HELP",                "https://teams.microsoft.com/l/meetup-join/19%3a3986403e9da04e3698616ade16c3b314%40thread.tacv2/1612270937227?context=%7b%22Tid%22%3a%22b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b%22%2c%22Oid%22%3a%229858a91d-80ab-4cbc-81ee-a630d01eb6f2%22%7d", "", "0", "0"],
 ["9", "",                   "",                                "", "", "0", "0"],
 ["9", "",                   "",                                "", "", "0", "0"],
@@ -66,9 +66,9 @@ var activities = [
 
 //WEEK 14
 ["1", "01/02/22 | 2:00pm",  "Object's Life Discussion",               "https://teams.microsoft.com/l/meetup-join/19%3a3986403e9da04e3698616ade16c3b314%40thread.tacv2/1611937109057?context=%7b%22Tid%22%3a%22b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b%22%2c%22Oid%22%3a%229858a91d-80ab-4cbc-81ee-a630d01eb6f2%22%7d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/pdfs/COMS10017_QA_02.pdf", "0", "0"],
-["0", "in your own time",   "Object's Life I",       "https://mediasite.bris.ac.uk/Mediasite/Play/80a1b55c95894d0c9c5d47c83f2fa3b61d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/pdfs/COMS10017_04.pdf", "0", "0"],
+["0", "in your own time",   "Object's Life I",       "https://web.microsoftstream.com/video/259ec492-8d23-4646-b3ab-5a23cf436f49", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/pdfs/COMS10017_04.pdf", "0", "0"],
 ["0", "in your own time",   "Object's Life II",       "https://mediasite.bris.ac.uk/Mediasite/Play/524501dc87cc4db89078fc5f6b49dba41d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/pdfs/COMS10017_05.pdf", "0", "0"],
-["0", "in your own time",   "Inheritance and Polymorphism I",       "https://mediasite.bris.ac.uk/Mediasite/Play/300198647bc1415891ed8426f410c4bf1d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/pdfs/COMS10017_06.pdf", "6", "11"],
+["0", "in your own time",   "Inheritance and Polymorphism I",       "https://web.microsoftstream.com/video/0db9552b-fb92-4f81-97b1-1d507f97b317", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/pdfs/COMS10017_06.pdf", "6", "11"],
 ["17","02/02/22 | 10:00am", "Worksheet support lab",                "https://teams.microsoft.com/l/meetup-join/19%3a3986403e9da04e3698616ade16c3b314%40thread.tacv2/1612270937227?context=%7b%22Tid%22%3a%22b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b%22%2c%22Oid%22%3a%229858a91d-80ab-4cbc-81ee-a630d01eb6f2%22%7d", "", "0", "0"],
 ["9", "",                   "",                                "", "", "0", "0"],
 ["0", "in your own time",   "Inheritance and Polymorphism II",       "https://mediasite.bris.ac.uk/Mediasite/Play/8def98c80f4941a9a9460d01f33fabe01d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/pdfs/COMS10017_07.pdf", "6", "11"],
@@ -79,9 +79,9 @@ var activities = [
 
 //WEEK 15
 ["1", "08/02/22 | 2:00pm",  "Double Dispatch and Visitor Discussion",               "https://teams.microsoft.com/l/meetup-join/19%3a3986403e9da04e3698616ade16c3b314%40thread.tacv2/1611937109057?context=%7b%22Tid%22%3a%22b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b%22%2c%22Oid%22%3a%229858a91d-80ab-4cbc-81ee-a630d01eb6f2%22%7d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/pdfs/COMS10017_QA_03.pdf", "0", "0"],
-["0", "in your own time",   "Polymorphism and Double Dispatch",       "https://mediasite.bris.ac.uk/Mediasite/Play/de02c94d197548b8b96b242a98e680b51d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/pdfs/COMS10017_08.pdf", "17", "2"],
+["0", "in your own time",   "Polymorphism and Double Dispatch",       "https://web.microsoftstream.com/video/c5a6f7b6-8165-45b0-92b3-18707dfa7c29", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/pdfs/COMS10017_08.pdf", "17", "2"],
 ["18", "in your own time",   "Random Java Features and IntelliJ tips",       "https://mediasite.bris.ac.uk/Mediasite/Play/8545bbbbc2ec43d4bb8e06c2d9acce811d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/pdfs/COMS10017_01_SHORT.pdf", "0", "0"],
-["0", "in your own time",   "Visitor Design Pattern I (Mammals and Credit Cards)",       "https://mediasite.bris.ac.uk/Mediasite/Play/17212b7730e547ff90bba345a1e9ae061d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/pdfs/COMS10017_09.pdf", "19", "2"],
+["0", "in your own time",   "Visitor Design Pattern I (Mammals and Credit Cards)",       "https://web.microsoftstream.com/video/03cb52bc-6fc9-4b3a-abef-16fd87c7026b", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/pdfs/COMS10017_09.pdf", "19", "2"],
 ["17","09/02/22 | 10:00am", "Worksheet support lab",                "https://teams.microsoft.com/l/meetup-join/19%3a3986403e9da04e3698616ade16c3b314%40thread.tacv2/1612270937227?context=%7b%22Tid%22%3a%22b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b%22%2c%22Oid%22%3a%229858a91d-80ab-4cbc-81ee-a630d01eb6f2%22%7d", "", "0", "0"],
 ["9", "",                   "",                                "", "", "0", "0"],
 ["0", "in your own time",   "Visitor Design Pattern II (Binary Treeckery)",       "https://mediasite.bris.ac.uk/Mediasite/Play/4e323775bee445e6ab5c9093a284ecb51d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/pdfs/COMS10017_10.pdf", "21", "1"],
@@ -131,7 +131,7 @@ var activities = [
 
 //WEEK 19
 ["1", "08/03/22 | 2:00pm",  "Scotland Yard Discussion, Dijkstra's Algorithm, Lambdas and Streams",               "https://teams.microsoft.com/l/meetup-join/19%3a3986403e9da04e3698616ade16c3b314%40thread.tacv2/1611937109057?context=%7b%22Tid%22%3a%22b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b%22%2c%22Oid%22%3a%229858a91d-80ab-4cbc-81ee-a630d01eb6f2%22%7d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/pdfs/COMS10017_QA_06.pdf", "0", "0"],
-["20", "<b>13min</b> (in your own time)",   "Dijkstra - theory",       "https://web.microsoftstream.com/video/8f732df1-8826-4f07-a4f9-b413529fd6d4", "", "45", "1"],
+["20", "<b>13min</b> (in your own time)",   "Dijkstra - theory",       "https://web.microsoftstream.com/video/e73a8b67-76f0-49d6-a1cc-671b8a218013", "", "45", "1"],
 ["20", "<b>20min</b> (in your own time)",   "Dijkstra - implementation",       "https://web.microsoftstream.com/video/fe20f63d-fc27-46dc-93a6-8dfed1cf70e8", "", "45", "2"],
 ["0", "<b>21min</b> (in your own time)",   "Lambdas and Streams - applied",       "https://mediasite.bris.ac.uk/Mediasite/Play/86d3e96a6eb94e61a6a5bcf6bfc4996d1d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/pdfs/COMS10017_17.pdf", "47", "2"],
 ["7", "in your own time+labs", "WEEKS 18 - 24<br>SCOTLAND YARD TASK<br/><br/><a href='https://www.ole.bris.ac.uk/webapps/assignment/uploadAssignment?content_id=_4963417_1&course_id=_240777_1&group_id=&mode=view' target='_blank'>Submission Deadline:<br/> ??/??/22 | 1pm<br/>(Blackboard)</a><br/>", "https://github.com/UoB-OOP/coms10017/blob/master/summative/README.md", "", "37", "8"],
@@ -143,7 +143,7 @@ var activities = [
 
 //WEEK 20
 ["1", "15/03/22 | 2:00pm",  "Abstract Data Types, Design Patterns, Observer", "https://teams.microsoft.com/l/meetup-join/19%3a3986403e9da04e3698616ade16c3b314%40thread.tacv2/1611937109057?context=%7b%22Tid%22%3a%22b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b%22%2c%22Oid%22%3a%229858a91d-80ab-4cbc-81ee-a630d01eb6f2%22%7d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/pdfs/COMS10017_QA_07.pdf", "0", "0"],
-["0", "<b>24min</b> (in your own time)",   "Abstract Data Types and Optionals",             "https://web.microsoftstream.com/video/4dc2995a-1f14-4818-8f51-5df1ae3bde27", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/pdfs/COMS10017_19.pdf", "0", "0"],
+["0", "<b>24min</b> (in your own time)",   "Abstract Data Types and Optionals",             "https://web.microsoftstream.com/video/9a7fecbb-120b-46a4-8ce1-a8627422916e", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/pdfs/COMS10017_19.pdf", "0", "0"],
 ["0", "<b>25min</b> (in your own time)",   "Design Patterns",                 "https://mediasite.bris.ac.uk/Mediasite/Play/5f11db8d83bd42a39a478abbbd5c87ca1d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/pdfs/COMS10017_20.pdf", "34", "1"],
 ["0", "<b>25min</b> (in your own time)",   "Observer",                        "https://mediasite.bris.ac.uk/Mediasite/Play/8e38c7577c2f4dfd930747bdebc4c10c1d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/pdfs/COMS10017_21.pdf", "49", "2"],
 ["8", "",                   "",                                "", "", "0", "0"],
