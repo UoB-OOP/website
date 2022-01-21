@@ -19,8 +19,8 @@ var extendCatNum2 = 10;                        // number of one category that ha
 //ACTIVITY CATEGORIES (up to 35 allowed)
 //CATEGORY NUM, CATEGORY TITLE, COLOUR, COUNTER?, SLIDES LINK, MATERIAL LINK
 var categories = [
-["0", "Lecture",             "#CCCFFF","1","PDF Slides","Code",          ],
-["1", "Hybrid Q&amp;A",      "#DDE3FC","1","Slides",    "",     ],
+["0", "Lecture Video",             "#CCCFFF","1","PDF Slides","Code",          ],
+["1", "Hybrid Live Q&amp;A",      "#DDE3FC","1","Slides",    "",     ],
 ["2", "Teams Q&amp;A",       "#CCDFFF","1","Slides",    "Code",          ],
 ["3", "Teams Lab",           "#EEDFCF","1","",          "",              ],
 ["4", "Optional Material",   "#D8CCFF","0","",            "",],
@@ -43,7 +43,7 @@ var categories = [
 ["21", "Lab Support for Scotland Yard",    "#FFD0D0","1","",          "",              ],
 ["22", "<br/><div align='center' style='color:#777777'>EASTER BREAK UPCOMING</div>",   "#CCCCCC","0","",          "",              ], // empty slot
 ["23", "<br/><div align='center' style='color:#777777'>REVISION WEEK</div>",   "#CCCCCC","0","",          "",              ], // empty slot
-["24", "Hybrid Intro",      "#DDE3FC","0","",    "",     ],
+["24", "Hybrid Live Lecture",      "#DDE3FC","0","",    "",     ],
 ];
 
 //WEEKLY ACTIVITIES
