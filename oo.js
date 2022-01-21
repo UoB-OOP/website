@@ -36,7 +36,7 @@ var categories = [
 ["14", "Teams Q&amp;A",       "#CCDFFF","0","",    "",     ],
 ["15", "<br/><div align='center' style='color:#777777'>REDUCED LECTURE LOAD</div>",   "#CCCCCC","0","",          "",              ], // empty slot
 ["16", "Formative Coursework","#EEEEDD","1","",          "",     ],
-["17", "Hybrid Lab",    "#E0CFCF","1","",          "",              ],
+["17", "Hybrid Live Lab",    "#E0CFCF","1","",          "",              ],
 ["18", "Short Lecture",             "#CCBFEE","1","PDF Slides","Code",          ],
 ["19", "Formative Coursework Solution","#AAAAAA","1","",          "",     ],
 ["20", "Live (kind of) coding",             "#CCAFDE","1","","Materials",          ],
