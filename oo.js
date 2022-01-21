@@ -30,7 +30,7 @@ var categories = [
 ["8",  "",                   "#EEEE88","0","",          "",              ], // multi-week coursework
 ["9",  "",                   "#CCCCCC","0","",          "",              ], // empty slot
 ["10", "",                   "#CCCCCC","0","",          "",              ], // multi-week empty
-["11", "Hybrid Setup Lab",    "#E0CFCF","1","",          "",              ],
+["11", "Hybrid Live Setup Lab",    "#E0CFCF","1","",          "",              ],
 ["12", "<br/><div align='center' style='color:#777777'>LECTURE-FREE WEEK</div>",   "#CCCCCC","0","",          "",              ], // empty slot
 ["13", "Teams Session",       "#DDE3FC","0","",    "",     ],
 ["14", "Teams Q&amp;A",       "#CCDFFF","0","",    "",     ],
