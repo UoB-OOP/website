@@ -38,11 +38,12 @@ var categories = [
 ["16", "Formative Coursework","#EEEEDD","1","",          "",     ],
 ["17", "Hybrid Lab",    "#E0CFCF","1","",          "",              ],
 ["18", "Short Lecture",             "#CCBFEE","1","PDF Slides","Code",          ],
-["19", "Formative Coursework Solution","#A0FEA0","1","",          "",     ],
+["19", "Formative Coursework Solution","#AAAAAA","1","",          "",     ],
 ["20", "Live (kind of) coding",             "#CCAFDE","1","","Materials",          ],
 ["21", "Lab Support for Scotland Yard",    "#FFD0D0","1","",          "",              ],
 ["22", "<br/><div align='center' style='color:#777777'>EASTER BREAK UPCOMING</div>",   "#CCCCCC","0","",          "",              ], // empty slot
 ["23", "<br/><div align='center' style='color:#777777'>REVISION WEEK</div>",   "#CCCCCC","0","",          "",              ], // empty slot
+["24", "Hybrid Intro",      "#DDE3FC","0","",    "",     ],
 ];
 
 //WEEKLY ACTIVITIES
@@ -51,7 +52,7 @@ var categories = [
 var activities = [
 
 //WEEK 13
-["1", "25/01/22 | 2:00pm",  "WELCOME &amp INTRODUCTION",               "https://teams.microsoft.com/l/meetup-join/19%3atOLkq1oIkmZoCGLC6djvsg1x0bVc_15baQDU50U4FsA1%40thread.tacv2/1642706468607?context=%7b%22Tid%22%3a%22b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b%22%2c%22Oid%22%3a%22dd2ed894-7bfc-4ec4-9dc0-91d4709b4272%22%7d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/pdfs/COMS10017_QA_01.pdf", "0", "0"],
+["24", "25/01/22 | 2:00pm",  "WELCOME &amp INTRODUCTION",               "https://teams.microsoft.com/l/meetup-join/19%3atOLkq1oIkmZoCGLC6djvsg1x0bVc_15baQDU50U4FsA1%40thread.tacv2/1642706468607?context=%7b%22Tid%22%3a%22b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b%22%2c%22Oid%22%3a%22dd2ed894-7bfc-4ec4-9dc0-91d4709b4272%22%7d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/pdfs/COMS10017_QA_01.pdf", "0", "0"],
 ["0", "in your own time",   "Object's Birth I",       "https://web.microsoftstream.com/video/d073c8ec-9581-4337-8b9f-6ac2955057a0", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/pdfs/COMS10017_01.pdf", "0", "2"],
 ["0", "in your own time",   "Object's Birth II",       "https://mediasite.bris.ac.uk/Mediasite/Play/3d1bc0d3ea53436593b11992a6f470011d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/pdfs/COMS10017_02.pdf", "0", "2"],
 ["0", "in your own time",   "Java Basics",       "https://web.microsoftstream.com/video/d0ded4b9-333c-4416-aa69-bd77cffeb078", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/pdfs/COMS10017_03.pdf", "2", "4"],
