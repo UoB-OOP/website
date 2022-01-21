@@ -1,5 +1,5 @@
 //LAYOUT CUSTOMIZATION
-var currentWeek   = 1;                         // current week [releases content fully visible up to this week]
+var currentWeek   = 13;                         // current week [releases content fully visible up to this week]
 var activityNum   = 10;                         // number of activities per week (empty slots possible)
 var columnNum     = 5;                         // desired columns per week (yet, autofitted to max 2 rows per week)
 var title         = "OBJECT ORIENTED PROGRAMMING";  // content title (different to unitName since multiple content streams maybe in one unit)
@@ -20,7 +20,7 @@ var extendCatNum2 = 10;                        // number of one category that ha
 //CATEGORY NUM, CATEGORY TITLE, COLOUR, COUNTER?, SLIDES LINK, MATERIAL LINK
 var categories = [
 ["0", "Lecture",             "#CCCFFF","1","PDF Slides","Code",          ],
-["1", "Teams Session",       "#DDE3FC","1","Slides",    "",     ],
+["1", "Hybrid Q&amp;A",      "#DDE3FC","1","Slides",    "",     ],
 ["2", "Teams Q&amp;A",       "#CCDFFF","1","Slides",    "Code",          ],
 ["3", "Teams Lab",           "#EEDFCF","1","",          "",              ],
 ["4", "Optional Material",   "#D8CCFF","0","",            "",],
@@ -30,13 +30,13 @@ var categories = [
 ["8",  "",                   "#EEEE88","0","",          "",              ], // multi-week coursework
 ["9",  "",                   "#CCCCCC","0","",          "",              ], // empty slot
 ["10", "",                   "#CCCCCC","0","",          "",              ], // multi-week empty
-["11", "Teams Setup Lab",    "#E0CFCF","1","",          "",              ],
+["11", "Hybrid Setup Lab",    "#E0CFCF","1","",          "",              ],
 ["12", "<br/><div align='center' style='color:#777777'>LECTURE-FREE WEEK</div>",   "#CCCCCC","0","",          "",              ], // empty slot
 ["13", "Teams Session",       "#DDE3FC","0","",    "",     ],
 ["14", "Teams Q&amp;A",       "#CCDFFF","0","",    "",     ],
 ["15", "<br/><div align='center' style='color:#777777'>REDUCED LECTURE LOAD</div>",   "#CCCCCC","0","",          "",              ], // empty slot
 ["16", "Formative Coursework","#EEEEDD","1","",          "",     ],
-["17", "Formative Lab",    "#E0CFCF","1","",          "",              ],
+["17", "Hybrid Lab",    "#E0CFCF","1","",          "",              ],
 ["18", "Short Lecture",             "#CCBFEE","1","PDF Slides","Code",          ],
 ["19", "Formative Coursework Solution","#A0FEA0","1","",          "",     ],
 ["20", "Live (kind of) coding",             "#CCAFDE","1","","Materials",          ],
