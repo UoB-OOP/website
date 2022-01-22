@@ -60,7 +60,7 @@ var activities = [
 ["9", "",                   "",                                "", "", "0", "0"],
 ["9", "",                   "",                                "", "", "0", "0"],
 ["9", "",                   "",                                "", "", "0", "0"],
-["16", "during weekly labs", "Machine and repository setup WEEK 13<br/>TASK 1(a): Teamwork in the Cloud<br/><br/>", "https://github.com/UoB-OOP/coms10017-wiki/blob/master/week13.md", "", "0", "0"],
+["16", "during weekly labs", "Machine and repository setup WEEK 13<br/>TASK 1(a): Teamwork in the Cloud<br/><br/>", "https://github.com/UoB-OOP/COMS10017-2022/blob/main/week13.md", "", "0", "0"],
 ["16", "during weekly labs", "Programming Pair Signup<br/>Signup here with exactly TWO comma-separated usernames (of the team members) in the participants field.<br/>", "https://doodle.com/poll/saqpimg5x9c9sw7t?utm_source=poll&utm_medium=link", "", "0", "0"],
 
 
