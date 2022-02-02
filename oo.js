@@ -1,5 +1,5 @@
 //LAYOUT CUSTOMIZATION
-var currentWeek   = 14;                         // current week [releases content fully visible up to this week]
+var currentWeek   = 15;                         // current week [releases content fully visible up to this week]
 var activityNum   = 10;                         // number of activities per week (empty slots possible)
 var columnNum     = 5;                         // desired columns per week (yet, autofitted to max 2 rows per week)
 var title         = "OBJECT ORIENTED PROGRAMMING";  // content title (different to unitName since multiple content streams maybe in one unit)
@@ -66,7 +66,7 @@ var activities = [
 
 
 //WEEK 14
-["1", "01/02/22 | 2:00pm",  "Object's Life Discussion",               "https://teams.microsoft.com/l/meetup-join/19%3atOLkq1oIkmZoCGLC6djvsg1x0bVc_15baQDU50U4FsA1%40thread.tacv2/1642706468607?context=%7b%22Tid%22%3a%22b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b%22%2c%22Oid%22%3a%22dd2ed894-7bfc-4ec4-9dc0-91d4709b4272%22%7d", "#", "0", "0"],
+["1", "01/02/22 | 2:00pm",  "Object's Life Discussion",               "https://teams.microsoft.com/l/meetup-join/19%3atOLkq1oIkmZoCGLC6djvsg1x0bVc_15baQDU50U4FsA1%40thread.tacv2/1642706468607?context=%7b%22Tid%22%3a%22b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b%22%2c%22Oid%22%3a%22dd2ed894-7bfc-4ec4-9dc0-91d4709b4272%22%7d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/pdfs/COMS10017_QA_02_21-22.pdf", "0", "0"],
 ["0", "in your own time",   "Object's Life I",       "https://web.microsoftstream.com/video/259ec492-8d23-4646-b3ab-5a23cf436f49", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/pdfs/COMS10017_04.pdf", "0", "0"],
 ["0", "in your own time",   "Object's Life II",       "https://mediasite.bris.ac.uk/Mediasite/Play/524501dc87cc4db89078fc5f6b49dba41d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/pdfs/COMS10017_05.pdf", "0", "0"],
 ["0", "in your own time",   "Inheritance and Polymorphism I",       "https://web.microsoftstream.com/video/0db9552b-fb92-4f81-97b1-1d507f97b317", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/pdfs/COMS10017_06.pdf", "6", "11"],
@@ -79,16 +79,16 @@ var activities = [
 
 
 //WEEK 15
-["1", "08/02/22 | 2:00pm",  "Double Dispatch and Visitor Discussion",               "https://teams.microsoft.com/l/meetup-join/19%3atOLkq1oIkmZoCGLC6djvsg1x0bVc_15baQDU50U4FsA1%40thread.tacv2/1642706468607?context=%7b%22Tid%22%3a%22b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b%22%2c%22Oid%22%3a%22dd2ed894-7bfc-4ec4-9dc0-91d4709b4272%22%7d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/pdfs/COMS10017_QA_03.pdf", "0", "0"],
+["1", "08/02/22 | 2:00pm",  "Double Dispatch and Visitor Discussion",               "https://teams.microsoft.com/l/meetup-join/19%3atOLkq1oIkmZoCGLC6djvsg1x0bVc_15baQDU50U4FsA1%40thread.tacv2/1642706468607?context=%7b%22Tid%22%3a%22b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b%22%2c%22Oid%22%3a%22dd2ed894-7bfc-4ec4-9dc0-91d4709b4272%22%7d", "#", "0", "0"],
 ["0", "in your own time",   "Polymorphism and Double Dispatch",       "https://web.microsoftstream.com/video/c5a6f7b6-8165-45b0-92b3-18707dfa7c29", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/pdfs/COMS10017_08.pdf", "17", "2"],
 ["18", "in your own time",   "Random Java Features and IntelliJ tips",       "https://mediasite.bris.ac.uk/Mediasite/Play/8545bbbbc2ec43d4bb8e06c2d9acce811d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/pdfs/COMS10017_01_SHORT.pdf", "0", "0"],
 ["0", "in your own time",   "Visitor Design Pattern I (Mammals and Credit Cards)",       "https://web.microsoftstream.com/video/03cb52bc-6fc9-4b3a-abef-16fd87c7026b", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/pdfs/COMS10017_09.pdf", "19", "2"],
 ["17","09/02/22 | 10:00am", "Worksheet support lab",                "https://teams.microsoft.com/l/meetup-join/19%3atOLkq1oIkmZoCGLC6djvsg1x0bVc_15baQDU50U4FsA1%40thread.tacv2/1642706697127?context=%7b%22Tid%22%3a%22b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b%22%2c%22Oid%22%3a%22dd2ed894-7bfc-4ec4-9dc0-91d4709b4272%22%7d", "", "0", "0"],
 ["9", "",                   "",                                "", "", "0", "0"],
 ["0", "in your own time",   "Visitor Design Pattern II (Binary Treeckery)",       "https://mediasite.bris.ac.uk/Mediasite/Play/4e323775bee445e6ab5c9093a284ecb51d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/pdfs/COMS10017_10.pdf", "21", "1"],
-["19", "solution to weekly lab", "WEEK 15<br/>Worksheet 2 SOLUTION<br/><br/>", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/pdfs/sheet2_solutions.pdf", "", "0", "0"],
+["19", "solution to weekly lab", "WEEK 15<br/>Worksheet 2 SOLUTION, not yet available<br/><br/>", "#", "", "0", "0"],
 ["9", "",                   "",                                "", "", "0", "0"],
-["16", "during weekly labs", "WEEK 15<br/>Worksheet 2<br/><br/>", "https://github.com/UoB-OOP/coms10017-wiki/blob/master/week15.md", "", "0", "0"],
+["16", "during weekly labs", "WEEK 15<br/>Worksheet 2 - not yet released<br/><br/>", "#", "", "0", "0"],
 
 
 //WEEK 16
