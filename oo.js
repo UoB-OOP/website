@@ -88,7 +88,7 @@ var activities = [
 ["0", "in your own time",   "Visitor Design Pattern II (Binary Treeckery)",       "https://mediasite.bris.ac.uk/Mediasite/Play/4e323775bee445e6ab5c9093a284ecb51d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/pdfs/COMS10017_10.pdf", "21", "1"],
 ["19", "solution to weekly lab", "WEEK 15<br/>Worksheet 2 SOLUTION, not yet available<br/><br/>", "#", "", "0", "0"],
 ["9", "",                   "",                                "", "", "0", "0"],
-["16", "during weekly labs", "WEEK 15<br/>Worksheet 2 - not yet released<br/><br/>", "#", "", "0", "0"],
+["16", "during weekly labs", "WEEK 15<br/>Worksheet 2 - Double Dispatch, Maven and more ...<br/><br/>", "https://github.com/UoB-OOP/COMS10017-2022/blob/main/week15.md", "", "0", "0"],
 
 
 //WEEK 16
