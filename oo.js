@@ -73,7 +73,7 @@ var activities = [
 ["17","02/02/22 | 10:00am", "Worksheet support lab",                "https://teams.microsoft.com/l/meetup-join/19%3atOLkq1oIkmZoCGLC6djvsg1x0bVc_15baQDU50U4FsA1%40thread.tacv2/1642706697127?context=%7b%22Tid%22%3a%22b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b%22%2c%22Oid%22%3a%22dd2ed894-7bfc-4ec4-9dc0-91d4709b4272%22%7d", "", "0", "0"],
 ["9", "",                   "",                                "", "", "0", "0"],
 ["0", "in your own time",   "Inheritance and Polymorphism II",       "https://mediasite.bris.ac.uk/Mediasite/Play/8def98c80f4941a9a9460d01f33fabe01d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/pdfs/COMS10017_07.pdf", "6", "11"],
-["19", "solution to weekly lab", "Object's Life, Inheritance and Polymorphism WEEK 14<br/>Worksheet 1 SOLUTION, not yet available<br/><br/>", "#", "", "0", "0"],
+["19", "solution to weekly lab", "Object's Life, Inheritance and Polymorphism WEEK 14<br/>Worksheet 1 SOLUTION<br/><br/>", "https://www.ole.bris.ac.uk/bbcswebdav/pid-587919-dt-announcement-rid-21828098_2/xid-21828098_2", "", "0", "0"],
 ["9", "",                   "",                                "", "", "0", "0"],
 ["16", "during weekly labs", "Object's Life, Inheritance and Polymorphism WEEK 14<br/>Worksheet 1<br/><br/>", "https://github.com/UoB-OOP/COMS10017-2022/blob/main/week14.md", "", "0", "0"],
 
