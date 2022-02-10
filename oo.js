@@ -1,5 +1,5 @@
 //LAYOUT CUSTOMIZATION
-var currentWeek   = 15;                         // current week [releases content fully visible up to this week]
+var currentWeek   = 16;                         // current week [releases content fully visible up to this week]
 var activityNum   = 10;                         // number of activities per week (empty slots possible)
 var columnNum     = 5;                         // desired columns per week (yet, autofitted to max 2 rows per week)
 var title         = "OBJECT ORIENTED PROGRAMMING";  // content title (different to unitName since multiple content streams maybe in one unit)
@@ -92,16 +92,16 @@ var activities = [
 
 
 //WEEK 16
-["1", "15/02/22 | 2:00pm",  "Abstraction, Generics and Encapsulation Discussion", "https://teams.microsoft.com/l/meetup-join/19%3atOLkq1oIkmZoCGLC6djvsg1x0bVc_15baQDU50U4FsA1%40thread.tacv2/1642706468607?context=%7b%22Tid%22%3a%22b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b%22%2c%22Oid%22%3a%22dd2ed894-7bfc-4ec4-9dc0-91d4709b4272%22%7d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/pdfs/COMS10017_QA_04.pdf", "0", "0"],
+["1", "15/02/22 | 2:00pm",  "Abstraction, Generics and Encapsulation Discussion", "https://teams.microsoft.com/l/meetup-join/19%3atOLkq1oIkmZoCGLC6djvsg1x0bVc_15baQDU50U4FsA1%40thread.tacv2/1642706468607?context=%7b%22Tid%22%3a%22b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b%22%2c%22Oid%22%3a%22dd2ed894-7bfc-4ec4-9dc0-91d4709b4272%22%7d", "#", "0", "0"],
 ["0", "<b>34min</b> (in your own time)",   "Abstraction",                                "https://mediasite.bris.ac.uk/Mediasite/Play/6248cdfc6b6241e3b850b059cbd1d8331d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/pdfs/COMS10017_11.pdf", "22", "4"],
 ["0", "<b>39min</b> (in your own time)",   "Generics",                                   "https://mediasite.bris.ac.uk/Mediasite/Play/8f28ec2d975c4f9cac92b077b573253b1d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/pdfs/COMS10017_12.pdf", "26", "3"],
 ["0", "<b>19min</b> (in your own time)",   "Encapsulation",                              "https://mediasite.bris.ac.uk/Mediasite/Play/fc99c87c31c845dcbfd553184fa5538d1d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/pdfs/COMS10017_13.pdf", "29", "1"],
 ["17","16/02/22 | 10:00am", "Worksheet support lab",                "https://teams.microsoft.com/l/meetup-join/19%3atOLkq1oIkmZoCGLC6djvsg1x0bVc_15baQDU50U4FsA1%40thread.tacv2/1642706697127?context=%7b%22Tid%22%3a%22b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b%22%2c%22Oid%22%3a%22dd2ed894-7bfc-4ec4-9dc0-91d4709b4272%22%7d", "", "0", "0"],
 ["9", "",                   "",                                "", "", "0", "0"],
 ["0", "<b>20min</b> (in your own time)",   "Immutables, Singleton, Reflection",          "https://mediasite.bris.ac.uk/Mediasite/Play/9c64524e546b454885b8b61fac7f94a11d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/pdfs/COMS10017_14.pdf", "30", "3"],
-["19", "solution to weekly lab", "WEEK 15<br/>Worksheet 3 SOLUTION<br/><br/>", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/pdfs/sheet3_solutions.pdf", "", "0", "0"],
+["19", "solution to weekly lab", "WEEK 15<br/>Worksheet 3 SOLUTION - not yet available<br/><br/>", "#", "", "0", "0"],
 ["9", "",                   "",                                "", "", "0", "0"],
-["16", "during weekly labs", "WEEK 16<br/>Worksheet 3<br/><br/>", "https://github.com/UoB-OOP/coms10017/blob/master/week16.md", "", "33", "1"],
+["16", "during weekly labs", "WEEK 16<br/>Worksheet 3 - not yet available<br/><br/>", "#", "", "33", "1"],
 
 
 
