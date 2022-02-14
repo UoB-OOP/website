@@ -86,7 +86,7 @@ var activities = [
 ["17","09/02/22 | 10:00am", "Worksheet support lab",                "https://teams.microsoft.com/l/meetup-join/19%3atOLkq1oIkmZoCGLC6djvsg1x0bVc_15baQDU50U4FsA1%40thread.tacv2/1642706697127?context=%7b%22Tid%22%3a%22b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b%22%2c%22Oid%22%3a%22dd2ed894-7bfc-4ec4-9dc0-91d4709b4272%22%7d", "", "0", "0"],
 ["9", "",                   "",                                "", "", "0", "0"],
 ["0", "in your own time",   "Visitor Design Pattern II (Binary Treeckery)",       "https://mediasite.bris.ac.uk/Mediasite/Play/4e323775bee445e6ab5c9093a284ecb51d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/pdfs/COMS10017_10.pdf", "21", "1"],
-["19", "solution to weekly lab", "WEEK 15<br/>Worksheet 2 SOLUTION, not yet available<br/><br/>", "#", "", "0", "0"],
+["19", "solution to weekly lab", "WEEK 15<br/>Worksheet 2 SOLUTION<br/><br/>", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/pdfs/sheet2_solutions.pdf", "", "0", "0"],
 ["9", "",                   "",                                "", "", "0", "0"],
 ["16", "during weekly labs", "WEEK 15<br/>Worksheet 2 - Double Dispatch, Maven and more ...<br/><br/>", "https://github.com/UoB-OOP/COMS10017-2022/blob/main/week15.md", "", "0", "0"],
 
@@ -101,7 +101,7 @@ var activities = [
 ["0", "<b>20min</b> (in your own time)",   "Immutables, Singleton, Reflection",          "https://mediasite.bris.ac.uk/Mediasite/Play/9c64524e546b454885b8b61fac7f94a11d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/pdfs/COMS10017_14.pdf", "30", "3"],
 ["19", "solution to weekly lab", "WEEK 15<br/>Worksheet 3 SOLUTION - not yet available<br/><br/>", "#", "", "0", "0"],
 ["9", "",                   "",                                "", "", "0", "0"],
-["16", "during weekly labs", "WEEK 16<br/>Worksheet 3 - not yet available<br/><br/>", "#", "", "33", "1"],
+["16", "during weekly labs", "WEEK 16<br/>Worksheet 3<br/><br/>", "https://github.com/UoB-OOP/COMS10017-2022/blob/main/week16.md", "", "33", "1"],
 
 
 
