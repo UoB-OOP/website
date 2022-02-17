@@ -1,5 +1,5 @@
 //LAYOUT CUSTOMIZATION
-var currentWeek   = 16;                         // current week [releases content fully visible up to this week]
+var currentWeek   = 17;                         // current week [releases content fully visible up to this week]
 var activityNum   = 10;                         // number of activities per week (empty slots possible)
 var columnNum     = 5;                         // desired columns per week (yet, autofitted to max 2 rows per week)
 var title         = "OBJECT ORIENTED PROGRAMMING";  // content title (different to unitName since multiple content streams maybe in one unit)
@@ -99,23 +99,23 @@ var activities = [
 ["17","16/02/22 | 10:00am", "Worksheet support lab",                "https://teams.microsoft.com/l/meetup-join/19%3atOLkq1oIkmZoCGLC6djvsg1x0bVc_15baQDU50U4FsA1%40thread.tacv2/1642706697127?context=%7b%22Tid%22%3a%22b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b%22%2c%22Oid%22%3a%22dd2ed894-7bfc-4ec4-9dc0-91d4709b4272%22%7d", "", "0", "0"],
 ["9", "",                   "",                                "", "", "0", "0"],
 ["0", "<b>20min</b> (in your own time)",   "Immutables, Singleton, Reflection",          "https://mediasite.bris.ac.uk/Mediasite/Play/9c64524e546b454885b8b61fac7f94a11d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/pdfs/COMS10017_14.pdf", "30", "3"],
-["19", "solution to weekly lab", "WEEK 15<br/>Worksheet 3 SOLUTION - not yet available<br/><br/>", "#", "", "0", "0"],
+["19", "solution to weekly lab", "WEEK 16<br/>Worksheet 3 SOLUTION - not yet available<br/><br/>", "#", "", "0", "0"],
 ["9", "",                   "",                                "", "", "0", "0"],
 ["16", "during weekly labs", "WEEK 16<br/>Worksheet 3<br/><br/>", "https://github.com/UoB-OOP/COMS10017-2022/blob/main/week16.md", "", "33", "1"],
 
 
 
 //WEEK 17
-["1", "22/02/22 | 2:00pm",  "Scotland Yard Discussion, Strategy and Iterator Patterns",               "https://teams.microsoft.com/l/meetup-join/19%3atOLkq1oIkmZoCGLC6djvsg1x0bVc_15baQDU50U4FsA1%40thread.tacv2/1642706468607?context=%7b%22Tid%22%3a%22b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b%22%2c%22Oid%22%3a%22dd2ed894-7bfc-4ec4-9dc0-91d4709b4272%22%7d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/pdfs/COMS10017_QA_05.pdf", "0", "0"],
+["1", "22/02/22 | 2:00pm",  "Scotland Yard Discussion, Strategy and Iterator Patterns",               "https://teams.microsoft.com/l/meetup-join/19%3atOLkq1oIkmZoCGLC6djvsg1x0bVc_15baQDU50U4FsA1%40thread.tacv2/1642706468607?context=%7b%22Tid%22%3a%22b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b%22%2c%22Oid%22%3a%22dd2ed894-7bfc-4ec4-9dc0-91d4709b4272%22%7d", "#", "0", "0"],
 ["0", "<b>21min</b> (in your own time)",   "Iterator Pattern",       "https://web.microsoftstream.com/video/a30742c7-a59e-4539-aa41-d55688e221a1", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/pdfs/COMS10017_15.pdf", "34", "1"],
 ["18", "<b>5min</b> (in your own time)",   "Default Methods",       "https://web.microsoftstream.com/video/6ea3c780-a437-4642-9a4a-abe52f395233", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/pdfs/COMS10017_02_SHORT.pdf", "0", "0"],
 ["0", "<b>28min</b> (in your own time)",   "Collections and Strategy Pattern",       "https://web.microsoftstream.com/video/ef1ff144-d374-4a66-9c71-8462ab48fcb5", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/pdfs/COMS10017_16.pdf", "35", "1"],
 ["17","23/02/22 | 10:00am", "Worksheet support lab",                "https://teams.microsoft.com/l/meetup-join/19%3atOLkq1oIkmZoCGLC6djvsg1x0bVc_15baQDU50U4FsA1%40thread.tacv2/1642706697127?context=%7b%22Tid%22%3a%22b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b%22%2c%22Oid%22%3a%22dd2ed894-7bfc-4ec4-9dc0-91d4709b4272%22%7d", "", "0", "0"],
 ["9", "",                   "",                                "", "", "0", "0"],
 ["0", "<b>20min</b> (in your own time)",   "Immutables, Singleton, Reflection",          "https://mediasite.bris.ac.uk/Mediasite/Play/9c64524e546b454885b8b61fac7f94a11d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/pdfs/COMS10017_14.pdf", "30", "3"],
-["19", "solution to weekly lab", "WEEK 15<br/>Worksheet 3 SOLUTION<br/><br/>", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/pdfs/sheet3_solutions.pdf", "", "0", "0"],
+["19", "solution to weekly lab", "WEEK 17<br/>Worksheet 3 - not yet available<br/><br/>", "#", "", "0", "0"],
 ["9", "",                   "",                                "", "", "0", "0"],
-["16", "during weekly labs", "WEEK 17<br/>Worksheet 3<br/><br/>", "https://github.com/UoB-OOP/coms10017/blob/master/week17.md", "", "33", "1"],
+["16", "during weekly labs", "WEEK 17<br/>Worksheet 3 - not yet available<br/><br/>", "#", "", "33", "1"],
 
 
 //WEEK 18
