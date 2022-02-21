@@ -106,7 +106,7 @@ var activities = [
 
 
 //WEEK 17
-["1", "22/02/22 | 2:00pm",  "Scotland Yard Discussion, Strategy and Iterator Patterns",               "https://teams.microsoft.com/l/meetup-join/19%3atOLkq1oIkmZoCGLC6djvsg1x0bVc_15baQDU50U4FsA1%40thread.tacv2/1642706468607?context=%7b%22Tid%22%3a%22b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b%22%2c%22Oid%22%3a%22dd2ed894-7bfc-4ec4-9dc0-91d4709b4272%22%7d", "#", "0", "0"],
+["1", "22/02/22 | 2:00pm",  "Strategy and Iterator Patterns",               "https://teams.microsoft.com/l/meetup-join/19%3atOLkq1oIkmZoCGLC6djvsg1x0bVc_15baQDU50U4FsA1%40thread.tacv2/1642706468607?context=%7b%22Tid%22%3a%22b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b%22%2c%22Oid%22%3a%22dd2ed894-7bfc-4ec4-9dc0-91d4709b4272%22%7d", "#", "0", "0"],
 ["0", "<b>21min</b> (in your own time)",   "Iterator Pattern",       "https://web.microsoftstream.com/video/a30742c7-a59e-4539-aa41-d55688e221a1", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/pdfs/COMS10017_15.pdf", "34", "1"],
 ["18", "<b>5min</b> (in your own time)",   "Default Methods",       "https://web.microsoftstream.com/video/6ea3c780-a437-4642-9a4a-abe52f395233", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/pdfs/COMS10017_02_SHORT.pdf", "0", "0"],
 ["0", "<b>28min</b> (in your own time)",   "Collections and Strategy Pattern",       "https://web.microsoftstream.com/video/ef1ff144-d374-4a66-9c71-8462ab48fcb5", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/pdfs/COMS10017_16.pdf", "35", "1"],
