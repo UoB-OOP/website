@@ -112,7 +112,7 @@ var activities = [
 ["0", "<b>28min</b> (in your own time)",   "Collections and Strategy Pattern",       "https://web.microsoftstream.com/video/ef1ff144-d374-4a66-9c71-8462ab48fcb5", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/pdfs/COMS10017_16.pdf", "35", "1"],
 ["17","23/02/22 | 10:00am", "Worksheet support lab",                "https://teams.microsoft.com/l/meetup-join/19%3atOLkq1oIkmZoCGLC6djvsg1x0bVc_15baQDU50U4FsA1%40thread.tacv2/1642706697127?context=%7b%22Tid%22%3a%22b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b%22%2c%22Oid%22%3a%22dd2ed894-7bfc-4ec4-9dc0-91d4709b4272%22%7d", "", "0", "0"],
 ["9", "",                   "",                                "", "", "0", "0"],
-["0", "<b>20min</b> (in your own time)",   "Immutables, Singleton, Reflection",          "https://mediasite.bris.ac.uk/Mediasite/Play/9c64524e546b454885b8b61fac7f94a11d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/pdfs/COMS10017_14.pdf", "30", "3"],
+["20", "<b>23min</b> (in your own time)",   "Practical application of Strategy Pattern",       "https://web.microsoftstream.com/video/f9668918-63b8-472b-960d-86e5790bd581", "", "36", "1"],
 ["19", "solution to weekly lab", "WEEK 17<br/>Worksheet 4<br/><br/>", "https://github.com/UoB-OOP/COMS10017-2022/blob/main/week17.md", "", "0", "0"],
 ["9", "",                   "",                                "", "", "0", "0"],
 ["16", "during weekly labs", "WEEK 17<br/>Worksheet 4 - not yet available<br/><br/>", "#", "", "33", "1"],
