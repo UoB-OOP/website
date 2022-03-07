@@ -1,5 +1,5 @@
 //LAYOUT CUSTOMIZATION
-var currentWeek   = 18;                         // current week [releases content fully visible up to this week]
+var currentWeek   = 19;                         // current week [releases content fully visible up to this week]
 var activityNum   = 10;                         // number of activities per week (empty slots possible)
 var columnNum     = 5;                         // desired columns per week (yet, autofitted to max 2 rows per week)
 var title         = "OBJECT ORIENTED PROGRAMMING";  // content title (different to unitName since multiple content streams maybe in one unit)
@@ -131,11 +131,11 @@ var activities = [
 ["10", "",                   "",                                "", "", "0", "0"],
 
 //WEEK 19
-["1", "08/03/22 | 2:00pm",  "Scotland Yard Discussion, Dijkstra's Algorithm, Lambdas and Streams",               "https://teams.microsoft.com/l/meetup-join/19%3atOLkq1oIkmZoCGLC6djvsg1x0bVc_15baQDU50U4FsA1%40thread.tacv2/1642706468607?context=%7b%22Tid%22%3a%22b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b%22%2c%22Oid%22%3a%22dd2ed894-7bfc-4ec4-9dc0-91d4709b4272%22%7d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/pdfs/COMS10017_QA_06.pdf", "0", "0"],
+["1", "08/03/22 | 2:00pm",  "Scotland Yard Discussion, Dijkstra's Algorithm, Lambdas and Streams",               "https://teams.microsoft.com/l/meetup-join/19%3atOLkq1oIkmZoCGLC6djvsg1x0bVc_15baQDU50U4FsA1%40thread.tacv2/1642706468607?context=%7b%22Tid%22%3a%22b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b%22%2c%22Oid%22%3a%22dd2ed894-7bfc-4ec4-9dc0-91d4709b4272%22%7d", "#", "0", "0"],
 ["20", "<b>13min</b> (in your own time)",   "Dijkstra - theory",       "https://web.microsoftstream.com/video/e73a8b67-76f0-49d6-a1cc-671b8a218013", "", "45", "1"],
 ["20", "<b>20min</b> (in your own time)",   "Dijkstra - implementation",       "https://web.microsoftstream.com/video/fe20f63d-fc27-46dc-93a6-8dfed1cf70e8", "", "45", "2"],
 ["0", "<b>21min</b> (in your own time)",   "Lambdas and Streams - applied",       "https://mediasite.bris.ac.uk/Mediasite/Play/86d3e96a6eb94e61a6a5bcf6bfc4996d1d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/pdfs/COMS10017_17.pdf", "47", "2"],
-["7", "in your own time+labs", "WEEKS 18 - 24<br>SCOTLAND YARD TASK<br/><br/><a href='https://www.ole.bris.ac.uk/webapps/assignment/uploadAssignment?content_id=_4963417_1&course_id=_240777_1&group_id=&mode=view' target='_blank'>Submission Deadline:<br/> ??/??/22 | 1pm<br/>(Blackboard)</a><br/>", "https://github.com/UoB-OOP/coms10017/blob/master/summative/README.md", "", "37", "8"],
+["7", "in your own time+labs", "WEEKS 19 - ??<br>SCOTLAND YARD TASK<br/><br/><a href='#' target='_blank'>Submission Deadline:<br/> ??/??/22 | 1pm<br/>(Blackboard)</a><br/>", "https://github.com/UoB-OOP/COMS10017-2022/blob/main/summative/README.md", "", "37", "8"],
 ["9", "",                   "",                                "", "", "0", "0"],
 ["0", "<b>20min</b> (in your own time)",   "Lambdas and Streams - theory",       "https://mediasite.bris.ac.uk/Mediasite/Play/cd2af72137b8406d916a103477abf0571d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/pdfs/COMS10017_18.pdf", "47", "2"],
 ["9", "",                   "",                                "", "", "0", "0"],
@@ -253,14 +253,14 @@ var files = [
 [  "34", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/code/Iterator.zip",               "Iterator.zip"],
 [  "35", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/code/Strategy.zip",               "Strategy.zip"],
 [  "36", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/code/2021/LiveCodingStrategy.zip",                 "LiveCodingStrategy.zip"],
-[  "37", "https://github.com/UoB-OOP/coms10017/blob/master/summative/README.md",                 "Project Page"],
+[  "37", "https://github.com/UoB-OOP/coms10017-2022/blob/master/summative/README.md",                 "Project Page"],
 [  "38", "https://www.ravensburger.org/spielanleitungen/ecm/Spielanleitungen/26646%20anl%202050897_2.pdf?ossl=pds_text_Spielanleitung",                 "<hr>SY Game Booklet"],
-[  "39", "https://web.microsoftstream.com/video/12e040aa-10d3-447b-a27f-0d2d4f9a911a",                 "<hr>Video: Running SY"],
+[  "39", "#",                 "<hr>Video: Running SY- not yet available"],
 [  "40", "https://web.microsoftstream.com/video/6bab3abf-41f3-4a30-8643-4b07ce35301c",                 "<hr>Video: SY in IntelliJ"],
-[  "41", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/code/cw-model.zip",                 "<hr>SY Skeleton Code"],
-[  "42", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/code/scotlandyard-local-0.0.1-SNAPSHOT-jar-with-dependencies.jar",                 "<hr>LINUX Binary 2Play"],
-[  "43", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/code/scotlandyard-local-0.0.1-SNAPSHOT-jar-with-dependencies-win.jar",             "<hr>WIN10 Binary 2Play"],
-[  "44", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/code/scotlandyard-local-0.0.1-SNAPSHOT-jar-with-dependencies-mac.jar",             "<hr>MAC Binary 2Play"],
+[  "41", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/code/cw-model_2022.zip",                 "<hr>SY Skeleton Code - not yet available"],
+[  "42", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/code/scotlandyard-local-0.0.1-SNAPSHOT-jar-with-dependencies.jar",                 "<hr>Linux Binary 2Play - not yet available"],
+[  "43", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/code/scotlandyard-local-0.0.1-SNAPSHOT-jar-with-dependencies-win.jar",             "<hr>Windows Binary 2Play - not yet available"],
+[  "44", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/code/scotlandyard-local-0.0.1-SNAPSHOT-jar-with-dependencies-mac.jar",             "<hr>Mac Binary 2Play - not yet available"],
 [  "45", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/pdfs/COMS10017_Dijkstra.pdf",               "Dijkstra slides"],
 [  "46", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/code/2021/tiloEWG.txt",                     "Example graph as text file"],
 [  "47", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/code/2021/StreamsFun.java",                 "StreamsFun.java"],
