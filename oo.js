@@ -255,7 +255,7 @@ var files = [
 [  "36", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/code/2021/LiveCodingStrategy.zip",                 "LiveCodingStrategy.zip"],
 [  "37", "https://github.com/UoB-OOP/coms10017-2022/blob/master/summative/README.md",                 "Project Page"],
 [  "38", "https://www.ravensburger.org/spielanleitungen/ecm/Spielanleitungen/26646%20anl%202050897_2.pdf?ossl=pds_text_Spielanleitung",                 "<hr>SY Game Booklet"],
-[  "39", "#",                 "<hr>Video: Running SY- not yet available"],
+[  "39", "https://github.com/UoB-OOP/COMS10017-2022/blob/main/summative/cw-model.md#download-the-java-version-of-the-game",                 "<hr>Running SY"],
 [  "40", "https://web.microsoftstream.com/video/6bab3abf-41f3-4a30-8643-4b07ce35301c",                 "<hr>Video: SY in IntelliJ"],
 [  "41", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/code/cw-model_2022.zip",                 "<hr>SY Skeleton Code"],
 [  "42", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/code/sy-remote-win_x86_64-linux_x86_64-mac_x86_64.jar",                 "<hr>Linux and Intel Mac Binary 2Play"],
