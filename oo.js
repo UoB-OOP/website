@@ -1,5 +1,5 @@
 //LAYOUT CUSTOMIZATION
-var currentWeek   = 19;                         // current week [releases content fully visible up to this week]
+var currentWeek   = 20;                         // current week [releases content fully visible up to this week]
 var activityNum   = 10;                         // number of activities per week (empty slots possible)
 var columnNum     = 5;                         // desired columns per week (yet, autofitted to max 2 rows per week)
 var title         = "OBJECT ORIENTED PROGRAMMING";  // content title (different to unitName since multiple content streams maybe in one unit)
@@ -150,7 +150,7 @@ var activities = [
 ["8", "",                   "",                                "", "", "0", "0"],
 ["9", "",                   "",                                "", "", "0", "0"],
 ["15", "",                   "",                                "", "", "0", "0"],
-["22", "",                   "",                                "", "", "0", "0"],
+["15", "",                   "",                                "", "", "0", "0"],
 ["21","16/03/22 | 10:00am", "Assignment Support Lab",                "https://teams.microsoft.com/l/meetup-join/19%3atOLkq1oIkmZoCGLC6djvsg1x0bVc_15baQDU50U4FsA1%40thread.tacv2/1642706697127?context=%7b%22Tid%22%3a%22b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b%22%2c%22Oid%22%3a%22dd2ed894-7bfc-4ec4-9dc0-91d4709b4272%22%7d", "", "0", "0"],
 ["8", "",                   "",                                "", "", "0", "0"],
 
