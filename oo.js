@@ -135,7 +135,7 @@ var activities = [
 ["20", "<b>13min</b> (in your own time)",   "Dijkstra - theory",       "https://web.microsoftstream.com/video/e73a8b67-76f0-49d6-a1cc-671b8a218013", "", "45", "1"],
 ["20", "<b>20min</b> (in your own time)",   "Dijkstra - implementation",       "https://web.microsoftstream.com/video/fe20f63d-fc27-46dc-93a6-8dfed1cf70e8", "", "45", "2"],
 ["0", "<b>21min</b> (in your own time)",   "Lambdas and Streams - applied",       "https://mediasite.bris.ac.uk/Mediasite/Play/86d3e96a6eb94e61a6a5bcf6bfc4996d1d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/pdfs/COMS10017_17.pdf", "47", "2"],
-["7", "in your own time+labs", "WEEKS 19 - ??<br>SCOTLAND YARD TASK<br/><br/><a href='#' target='_blank'>Submission Deadline:<br/> ??/??/22 | 1pm<br/>(Blackboard)</a><br/>", "https://github.com/UoB-OOP/COMS10017-2022/blob/main/summative/README.md", "", "37", "8"],
+["7", "in your own time+labs", "WEEKS 19 - ??<br>SCOTLAND YARD TASK<br/><br/><a href='#' target='_blank'>Submission Deadline:<br/> 29/4/22 | 1pm<br/>(Blackboard)</a><br/>", "https://github.com/UoB-OOP/COMS10017-2022/blob/main/summative/README.md", "", "37", "8"],
 ["9", "",                   "",                                "", "", "0", "0"],
 ["0", "<b>20min</b> (in your own time)",   "Lambdas and Streams - theory",       "https://mediasite.bris.ac.uk/Mediasite/Play/cd2af72137b8406d916a103477abf0571d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2021_TB-2/content/oo/pdfs/COMS10017_18.pdf", "47", "2"],
 ["9", "",                   "",                                "", "", "0", "0"],
