@@ -54,9 +54,9 @@ var categories = [
 var activities = [
 
 //WEEK 13
-["0", "Mon 22/01/24<br/>11:00am-11:50am<br/>QB1.40 Pugsley",   "Object's Birth I",       "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_01.pdf", "https://web.microsoftstream.com/video/d073c8ec-9581-4337-8b9f-6ac2955057a0", "0", "2"],
-["0", "Mon 22/01/24<br/>11:00am-11:50am<br/>QB1.40 Pugsley",   "Object's Birth II",       "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_02.pdf", "https://mediasite.bris.ac.uk/Mediasite/Play/3d1bc0d3ea53436593b11992a6f470011d", "0", "2"],
-["0", "Fri 26/01/24<br/>03:00pm-03:50pm<br/>QB1.40 Pugsley",   "Java Basics",       "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_03.pdf", "https://web.microsoftstream.com/video/d0ded4b9-333c-4416-aa69-bd77cffeb078", "2", "4"],
+["0", "Mon 22/01/24<br/>11:00am-11:50am<br/>PHYS BLDG 1.11",   "Object's Birth I",       "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_01.pdf", "https://web.microsoftstream.com/video/d073c8ec-9581-4337-8b9f-6ac2955057a0", "0", "2"],
+["0", "Mon 22/01/24<br/>11:00am-11:50am<br/>PHYS BLDG 1.11",   "Object's Birth II",       "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_02.pdf", "https://mediasite.bris.ac.uk/Mediasite/Play/3d1bc0d3ea53436593b11992a6f470011d", "0", "2"],
+["0", "Fri 26/01/24<br/>03:00pm-03:50pm<br/>PHYS BLDG G42",   "Java Basics",       "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_03.pdf", "https://web.microsoftstream.com/video/d0ded4b9-333c-4416-aa69-bd77cffeb078", "2", "4"],
 ["17","Wed 24/01/24<br/>10:00am-01:00pm<br/>MVB2.11/1.15", "Machine &amp; Repo Setup",                "https://github.com/UoB-OOP/COMS10017-2023/blob/main/week13.md", "", "0", "0"],
 ["9", "",                   "",                                "", "", "0", "0"],
 ["9", "",                   "",                                "", "", "0", "0"],
@@ -66,26 +66,26 @@ var activities = [
 
 
 //WEEK 14
-["0", "Mon 29/01/24<br/>11:00am-11:50am<br/>QB1.40 Pugsley",   "Object's Life I",       "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_04.pdf", "https://web.microsoftstream.com/video/259ec492-8d23-4646-b3ab-5a23cf436f49", "0", "0"],
+["0", "Mon 29/01/24<br/>11:00am-11:50am<br/>PHYS BLDG 1.11",   "Object's Life I",       "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_04.pdf", "https://web.microsoftstream.com/video/259ec492-8d23-4646-b3ab-5a23cf436f49", "0", "0"],
 
-["0", "Mon 29/01/24<br/>11:00am-11:50am<br/>QB1.40 Pugsley",   "Object's Life II",       "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_05.pdf", "https://mediasite.bris.ac.uk/Mediasite/Play/524501dc87cc4db89078fc5f6b49dba41d", "0", "2"],
+["0", "Mon 29/01/24<br/>11:00am-11:50am<br/>PHYS BLDG 1.11",   "Object's Life II",       "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_05.pdf", "https://mediasite.bris.ac.uk/Mediasite/Play/524501dc87cc4db89078fc5f6b49dba41d", "0", "2"],
 
-["0", "Fri 02/02/24<br/>03:00pm-03:50pm<br/>QB1.40 Pugsley",   "Inheritance and Polymorphism I",       "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_06.pdf", "https://web.microsoftstream.com/video/0db9552b-fb92-4f81-97b1-1d507f97b317", "6", "11"],
+["0", "Fri 02/02/24<br/>03:00pm-03:50pm<br/>PHYS BLDG G42",   "Inheritance and Polymorphism I",       "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_06.pdf", "https://web.microsoftstream.com/video/0db9552b-fb92-4f81-97b1-1d507f97b317", "6", "11"],
 
 ["17","Wed 31/01/24<br/>10:00am-01:00pm<br/>MVB2.11/1.15", "Worksheet 1",                "https://github.com/UoB-OOP/COMS10017-2023/blob/main/week14.md", "", "0", "0"],
 
-["0", "Fri 03/02/24<br/>03:00pm-03:50pm<br/>QB1.40 Pugsley",   "Inheritance and Polymorphism II",       "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_07.pdf", "https://mediasite.bris.ac.uk/Mediasite/Play/8def98c80f4941a9a9460d01f33fabe01d", "6", "11"],
+["0", "Fri 03/02/24<br/>03:00pm-03:50pm<br/>PHYS BLDG G42",   "Inheritance and Polymorphism II",       "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_07.pdf", "https://mediasite.bris.ac.uk/Mediasite/Play/8def98c80f4941a9a9460d01f33fabe01d", "6", "11"],
 
 ["9", "",                   "",                                "", "", "0", "0"],
 ["19", "solution to weekly lab", "Object's Life, Inheritance and Polymorphism WEEK 14<br/>Worksheet 1 SOLUTION<br/><br/>", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/sheet1_solutions.pdf", "", "0", "0"],
 ["16", "during weekly labs", "Programming Pair Signup<hr/>Signup with exactly TWO comma-separated usernames (of the team members) in the participants field.", "https://forms.office.com/Pages/ResponsePage.aspx?id=MH_ksn3NTkql2rGM8aQVG5TYLt38e8ROncCR1HCbQnJUQjZLN0pDRTBTQ1hHNUNHVUk2OUNDRTE4TC4u", "", "0", "0"],
 
 //WEEK 15
-["0", "Mon 05/06/24<br/>11:00am-11:50am<br/>QB1.40 Pugsley",   "Polymorphism and Double Dispatch",       "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_08.pdf", "https://web.microsoftstream.com/video/c5a6f7b6-8165-45b0-92b3-18707dfa7c29", "17", "2"],
+["0", "Mon 05/06/24<br/>11:00am-11:50am<br/>PHYS BLDG 1.11",   "Polymorphism and Double Dispatch",       "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_08.pdf", "https://web.microsoftstream.com/video/c5a6f7b6-8165-45b0-92b3-18707dfa7c29", "17", "2"],
 
-["0", "Mon 05/02/24<br/>11:00am-11:50am<br/>QB1.40 Pugsley",   "Visitor Design Pattern I (Mammals and Credit Cards)",       "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_09.pdf", "https://web.microsoftstream.com/video/03cb52bc-6fc9-4b3a-abef-16fd87c7026b", "19", "2"],
+["0", "Mon 05/02/24<br/>11:00am-11:50am<br/>PHYS BLDG 1.11",   "Visitor Design Pattern I (Mammals and Credit Cards)",       "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_09.pdf", "https://web.microsoftstream.com/video/03cb52bc-6fc9-4b3a-abef-16fd87c7026b", "19", "2"],
 
-["0", "Fri 9/02/24<br/>03:00pm-03:50pm<br/>QB1.40 Pugsley",   "Visitor Design Pattern II (Binary Treeckery)",       "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_10.pdf", "https://mediasite.bris.ac.uk/Mediasite/Play/4e323775bee445e6ab5c9093a284ecb51d", "21", "1"],
+["0", "Fri 9/02/24<br/>03:00pm-03:50pm<br/>PHYS BLDG G42",   "Visitor Design Pattern II (Binary Treeckery)",       "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_10.pdf", "https://mediasite.bris.ac.uk/Mediasite/Play/4e323775bee445e6ab5c9093a284ecb51d", "21", "1"],
 
 ["17","Wed 07/02/24<br/>10:00am-01:00pm<br/>MVB2.11/1.15", "Worksheet 2",                "https://github.com/UoB-OOP/COMS10017-2023/blob/main/week15.md", "", "0", "0"],
 
@@ -97,11 +97,11 @@ var activities = [
 
 
 //WEEK 16
-["0", "Mon 12/02/24<br/>11:00am-11:50am<br/>QB1.40 Pugsley",   "Abstraction",       "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_11.pdf", "https://mediasite.bris.ac.uk/Mediasite/Play/6248cdfc6b6241e3b850b059cbd1d8331d", "22", "4"],
+["0", "Mon 12/02/24<br/>11:00am-11:50am<br/>PHYS BLDG 1.11",   "Abstraction",       "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_11.pdf", "https://mediasite.bris.ac.uk/Mediasite/Play/6248cdfc6b6241e3b850b059cbd1d8331d", "22", "4"],
 
-["0", "Mon 12/02/24<br/>11:00am-11:50am<br/>QB1.40 Pugsley",   "Generics",       "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_12.pdf", "https://mediasite.bris.ac.uk/Mediasite/Play/8f28ec2d975c4f9cac92b077b573253b1d", "26", "3"],
+["0", "Mon 12/02/24<br/>11:00am-11:50am<br/>PHYS BLDG 1.11",   "Generics",       "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_12.pdf", "https://mediasite.bris.ac.uk/Mediasite/Play/8f28ec2d975c4f9cac92b077b573253b1d", "26", "3"],
 
-["0", "Fri 16/02/24<br/>03:00pm-03:50pm<br/>QB1.40 Pugsley",   "Encapsulation",       "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_13.pdf", "https://mediasite.bris.ac.uk/Mediasite/Play/fc99c87c31c845dcbfd553184fa5538d1d", "29", "1"],
+["0", "Fri 16/02/24<br/>03:00pm-03:50pm<br/>PHYS BLDG G42",   "Encapsulation",       "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_13.pdf", "https://mediasite.bris.ac.uk/Mediasite/Play/fc99c87c31c845dcbfd553184fa5538d1d", "29", "1"],
 
 ["17","Wed 14/02/24<br/>10:00am-01:00pm<br/>MVB2.11/1.15", "Worksheet 3",                "https://github.com/UoB-OOP/COMS10017-2023/blob/main/week16.md", "", "0", "0"],
 
@@ -115,9 +115,9 @@ var activities = [
 
 //WEEK 17
 
-["0", "Mon 19/02/24<br/>11:00am-11:50am<br/>QB1.40 Pugsley",   "Iterator Pattern",       "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_15.pdf", "https://web.microsoftstream.com/video/a30742c7-a59e-4539-aa41-d55688e221a1", "34", "1"],
+["0", "Mon 19/02/24<br/>11:00am-11:50am<br/>PHYS BLDG 1.11",   "Iterator Pattern",       "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_15.pdf", "https://web.microsoftstream.com/video/a30742c7-a59e-4539-aa41-d55688e221a1", "34", "1"],
 
-["0", "Fri 23/02/24<br/>03:00pm-03:50pm<br/>QB1.40 Pugsley",   "Collections and Strategy Pattern",       "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_16.pdf", "https://web.microsoftstream.com/video/ef1ff144-d374-4a66-9c71-8462ab48fcb5", "35", "1"],
+["0", "Fri 23/02/24<br/>03:00pm-03:50pm<br/>PHYS BLDG G42",   "Collections and Strategy Pattern",       "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_16.pdf", "https://web.microsoftstream.com/video/ef1ff144-d374-4a66-9c71-8462ab48fcb5", "35", "1"],
 
 ["20", "<b>23min</b> (in your own time)",   "Practical application of Strategy Pattern",       "https://web.microsoftstream.com/video/f9668918-63b8-472b-960d-86e5790bd581", "", "36", "1"],
 
@@ -144,12 +144,12 @@ var activities = [
 
 
 //WEEK 19
-["27", "Mon 04/03/24<br/>11:00am-11:50am<br/>QB1.40 Pugsley",   "Charlie's Lambdas and Streams Lecture",        "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/OOPStreamsLecture.pdf", "https://mediasite.bris.ac.uk/Mediasite/Play/80d2f2732cdc4470958b51be10caca5f1d","", ""],
+["27", "Mon 04/03/24<br/>11:00am-11:50am<br/>PHYS BLDG 1.11",   "Charlie's Lambdas and Streams Lecture",        "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/OOPStreamsLecture.pdf", "https://mediasite.bris.ac.uk/Mediasite/Play/80d2f2732cdc4470958b51be10caca5f1d","", ""],
 
-["0", "Mon 04/03/24<br/>11:00am-11:50am<br/>QB1.40 Pugsley",   "Lambdas and Streams - applied",        "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_17.pdf", "https://mediasite.bris.ac.uk/Mediasite/Play/86d3e96a6eb94e61a6a5bcf6bfc4996d1d","47", "2"],
+["0", "Mon 04/03/24<br/>11:00am-11:50am<br/>PHYS BLDG 1.11",   "Lambdas and Streams - applied",        "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_17.pdf", "https://mediasite.bris.ac.uk/Mediasite/Play/86d3e96a6eb94e61a6a5bcf6bfc4996d1d","47", "2"],
 
 
-["0", "Mon 04/03/24<br/>11:00am-11:50am<br/>QB1.40 Pugsley",   "Lambdas and Streams - theory",        "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_18.pdf","https://mediasite.bris.ac.uk/Mediasite/Play/cd2af72137b8406d916a103477abf0571d", "47", "2"],
+["0", "Mon 04/03/24<br/>11:00am-11:50am<br/>PHYS BLDG 1.11",   "Lambdas and Streams - theory",        "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_18.pdf","https://mediasite.bris.ac.uk/Mediasite/Play/cd2af72137b8406d916a103477abf0571d", "47", "2"],
 
 ["7", "in your own time+labs", "WEEKS 19 - 23<br>SCOTLAND YARD TASK<br/><br/><a href='https://www.ole.bris.ac.uk/webapps/assignment/uploadAssignment?content_id=_7464274_1&course_id=_252988_1&group_id=&mode=view' target='_blank'>Submission Deadline:<br/> Thursday, xx April 2024 | 1pm<br/>(Blackboard)</a><br/>", "https://github.com/UoB-OOP/COMS10017-2023/blob/main/summative/README.md", "", "37", "8"],
 
@@ -158,22 +158,22 @@ var activities = [
 ["20", "<b>20min</b> (in your own time)",   "Dijkstra - implementation",       "https://web.microsoftstream.com/video/fe20f63d-fc27-46dc-93a6-8dfed1cf70e8", "", "45", "2"],
 
 
-["26", "Fri 8/03/24<br/>03:00pm-03:50pm<br/>QB1.40 Pugsley",   "Scotland Yard Q&A and Dijkstra Recap (if time)",        "#","", "", ""],
+["26", "Fri 8/03/24<br/>03:00pm-03:50pm<br/>PHYS BLDG G42",   "Scotland Yard Q&A and Dijkstra Recap (if time)",        "#","", "", ""],
 
 ["8", "",                   "",                                "", "", "0", "0"],
 
 //WEEK 20
 ["25", "<b>24min</b> (in your own time)",   "Abstract Data Types and Optionals",              "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_19.pdf", "https://web.microsoftstream.com/video/9a7fecbb-120b-46a4-8ce1-a8627422916e","0", "0"],
 
-["0", "Mon 11/03/24<br/>11:00am-11:50am<br/>QB1.40 Pugsley",   "Design Patterns",                 "https://mediasite.bris.ac.uk/Mediasite/Play/5f11db8d83bd42a39a478abbbd5c87ca1d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_20.pdf", "34", "1"],
+["0", "Mon 11/03/24<br/>11:00am-11:50am<br/>PHYS BLDG 1.11",   "Design Patterns",                 "https://mediasite.bris.ac.uk/Mediasite/Play/5f11db8d83bd42a39a478abbbd5c87ca1d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_20.pdf", "34", "1"],
 
-["0", "Mon 11/03/24<br/>11:00am-11:50am<br/>QB1.40 Pugsley",   "Observer",                        "https://mediasite.bris.ac.uk/Mediasite/Play/8e38c7577c2f4dfd930747bdebc4c10c1d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_21.pdf", "49", "2"],
+["0", "Mon 11/03/24<br/>11:00am-11:50am<br/>PHYS BLDG 1.11",   "Observer",                        "https://mediasite.bris.ac.uk/Mediasite/Play/8e38c7577c2f4dfd930747bdebc4c10c1d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_21.pdf", "49", "2"],
 
 ["8", "",                   "",                                "", "", "0", "0"],
 
-["0", "Fri 15/03/24<br/>03:00pm-03:50pm<br/>QB1.40 Pugsley",   "Model-View-Controller",           "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_22.pdf", "https://mediasite.bris.ac.uk/Mediasite/Play/09d684e9d7b644d69ef88a0765bc023f1d", "50", "2"],
+["0", "Fri 15/03/24<br/>03:00pm-03:50pm<br/>PHYS BLDG G42",   "Model-View-Controller",           "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_22.pdf", "https://mediasite.bris.ac.uk/Mediasite/Play/09d684e9d7b644d69ef88a0765bc023f1d", "50", "2"],
 
-["0", "Fri 15/03/24<br/>03:00pm-03:50pm<br/>QB1.40 Pugsley",   "Factory Method",                   "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_23.pdf", "https://mediasite.bris.ac.uk/Mediasite/Play/859563f8ab9f494cb7be9597ac5d149f1d","52", "1"],
+["0", "Fri 15/03/24<br/>03:00pm-03:50pm<br/>PHYS BLDG G42",   "Factory Method",                   "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_23.pdf", "https://mediasite.bris.ac.uk/Mediasite/Play/859563f8ab9f494cb7be9597ac5d149f1d","52", "1"],
 
 ["9", "",                   "",                                "", "", "0", "0"],
 
@@ -181,11 +181,11 @@ var activities = [
 
 
 //WEEK 21
-["0", "Mon 18/03/24<br/>11:00am-11:50am<br/>QB1.40 Pugsley",   "Abstract Data Types and Optionals", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_19.pdf",                        "https://web.microsoftstream.com/video/9a7fecbb-120b-46a4-8ce1-a8627422916e",  "0", "0"],
+["0", "Mon 18/03/24<br/>11:00am-11:50am<br/>PHYS BLDG 1.11",   "Abstract Data Types and Optionals", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_19.pdf",                        "https://web.microsoftstream.com/video/9a7fecbb-120b-46a4-8ce1-a8627422916e",  "0", "0"],
 
 ["9", "",                   "",                                "", "", "0", "0"],
 
-["26", "Fri 22/03/24<br/>03:00pm-03:50pm<br/>QB1.40 Pugsley",   "Scotland Yard Q&A (advance, ticket board and observer)",        "https://mediasite.bris.ac.uk/Mediasite/Play/0c9906af78844aa7ad72ec5821dd14801d","", "", ""],
+["26", "Fri 22/03/24<br/>03:00pm-03:50pm<br/>PHYS BLDG G42",   "Scotland Yard Q&A (advance, ticket board and observer)",        "https://mediasite.bris.ac.uk/Mediasite/Play/0c9906af78844aa7ad72ec5821dd14801d","", "", ""],
 
 ["8", "",                   "",                                "", "", "0", "0"],
 
@@ -195,9 +195,9 @@ var activities = [
 ["8", "",                   "",                                "", "", "0", "0"],
 
 //WEEK 22
-["0", "Mon 15/04/24<br/>11:00am-11:50am<br/>QB1.40 Pugsley",   "Abstract Factory",                "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_24.pdf", "https://mediasite.bris.ac.uk/Mediasite/Play/0cbcbee5633a496bb3abbcf3b798ad181d", "53", "1"],
+["0", "Mon 15/04/24<br/>11:00am-11:50am<br/>PHYS BLDG 1.11",   "Abstract Factory",                "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_24.pdf", "https://mediasite.bris.ac.uk/Mediasite/Play/0cbcbee5633a496bb3abbcf3b798ad181d", "53", "1"],
 
-["0", "Mon 15/04/24<br/>11:00am-11:50am<br/>QB1.40 Pugsley",   "Adapter",           "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_25.pdf", "https://mediasite.bris.ac.uk/Mediasite/Play/a9ab513cfc234297943e6dc81dce96251d", "54", "1"],
+["0", "Mon 15/04/24<br/>11:00am-11:50am<br/>PHYS BLDG 1.11",   "Adapter",           "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_25.pdf", "https://mediasite.bris.ac.uk/Mediasite/Play/a9ab513cfc234297943e6dc81dce96251d", "54", "1"],
 
 ["0", "<b>11min</b> (in your own time)",   "Proxy",             "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_26.pdf", "https://mediasite.bris.ac.uk/Mediasite/Play/941e0f81a5b644f0af26b15bffb95e201d", "55", "1"],
 
@@ -211,11 +211,11 @@ var activities = [
 ["8", "",                   "",                                "", "", "0", "0"],
 
 //WEEK 23
-["0", "Mon 22/04/24<br/>11:00am-11:50am<br/>QB1.40 Pugsley",   "Bridge",                "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_28.pdf", "https://mediasite.bris.ac.uk/Mediasite/Play/17c347bf62114968916e3d8e6a54f7221d", "57", "1"],
+["0", "Mon 22/04/24<br/>11:00am-11:50am<br/>PHYS BLDG 1.11",   "Bridge",                "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_28.pdf", "https://mediasite.bris.ac.uk/Mediasite/Play/17c347bf62114968916e3d8e6a54f7221d", "57", "1"],
 
-["0", "Mon 22/04/24<br/>11:00am-11:50am<br/>QB1.40 Pugsley",   "Mediator",               "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_29.pdf", "https://mediasite.bris.ac.uk/Mediasite/Play/e4904cb625414bc19f5ab129126bb27b1d","58", "1"],
+["0", "Mon 22/04/24<br/>11:00am-11:50am<br/>PHYS BLDG 1.11",   "Mediator",               "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_29.pdf", "https://mediasite.bris.ac.uk/Mediasite/Play/e4904cb625414bc19f5ab129126bb27b1d","58", "1"],
 
-["0", "Mon 22/04/24<br/>11:00am-11:50am<br/>QB1.40 Pugsley",   "Chain of Responsibility","https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_30.pdf", "https://mediasite.bris.ac.uk/Mediasite/Play/23622e7e215d41b3a8c500cd3b8506c91d", "59", "1"],
+["0", "Mon 22/04/24<br/>11:00am-11:50am<br/>PHYS BLDG 1.11",   "Chain of Responsibility","https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_30.pdf", "https://mediasite.bris.ac.uk/Mediasite/Play/23622e7e215d41b3a8c500cd3b8506c91d", "59", "1"],
 
 ["8", "",                   "",                                "", "", "0", "0"],
 ["9", "",                   "",                                "", "", "0", "0"],
