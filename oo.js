@@ -61,7 +61,7 @@ var activities = [
 ["9", "",                   "",                                "", "", "0", "0"],
 ["9", "",                   "",                                "", "", "0", "0"],
 ["9", "",                   "",                                "", "", "0", "0"],
-["16", "during weekly labs", "Programming Pair Signup<hr/>Signup with exactly TWO comma-separated usernames (of the team members) in the participants field.", "https://forms.office.com/Pages/ResponsePage.aspx?id=MH_ksn3NTkql2rGM8aQVG5TYLt38e8ROncCR1HCbQnJUQjZLN0pDRTBTQ1hHNUNHVUk2OUNDRTE4TC4u", "", "0", "0"],
+["16", "during weekly labs", "Programming Pair Signup<hr/>Signup with exactly TWO comma-separated usernames (of the team members) in the participants field.", "https://forms.office.com/Pages/ResponsePage.aspx?id=MH_ksn3NTkql2rGM8aQVG5TYLt38e8ROncCR1HCbQnJUQUFBOUtTVjNYMUk3SUpXN0RMRVY2NDBUSC4u", "", "0", "0"],
 
 
 
