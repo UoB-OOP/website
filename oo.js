@@ -57,7 +57,7 @@ var activities = [
 ["0", "Mon 22/01/24<br/>11:00am-11:50am<br/>PHYS BLDG 1.11",   "Object's Birth I",       "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_01.pdf", "https://web.microsoftstream.com/video/d073c8ec-9581-4337-8b9f-6ac2955057a0", "0", "2"],
 ["0", "Mon 22/01/24<br/>11:00am-11:50am<br/>PHYS BLDG 1.11",   "Object's Birth II",       "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_02.pdf", "https://mediasite.bris.ac.uk/Mediasite/Play/3d1bc0d3ea53436593b11992a6f470011d", "0", "2"],
 ["0", "Fri 26/01/24<br/>03:00pm-03:50pm<br/>PHYS BLDG G42",   "Java Basics",       "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_03.pdf", "https://web.microsoftstream.com/video/d0ded4b9-333c-4416-aa69-bd77cffeb078", "2", "4"],
-["17","Wed 24/01/24<br/>10:00am-01:00pm<br/>MVB2.11/1.15", "Machine &amp; Repo Setup",                "https://github.com/UoB-OOP/COMS10017-2023/blob/main/week13.md", "", "0", "0"],
+["17","Wed 24/01/24<br/>10:00am-01:00pm<br/>MVB2.11/1.15", "Machine &amp; Repo Setup",                "https://github.com/UoB-OOP/COMS10017-2024/blob/main/week13.md", "", "0", "0"],
 ["9", "",                   "",                                "", "", "0", "0"],
 ["9", "",                   "",                                "", "", "0", "0"],
 ["9", "",                   "",                                "", "", "0", "0"],
@@ -72,7 +72,7 @@ var activities = [
 
 ["0", "Fri 02/02/24<br/>03:00pm-03:50pm<br/>PHYS BLDG G42",   "Inheritance and Polymorphism I",       "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_06.pdf", "https://web.microsoftstream.com/video/0db9552b-fb92-4f81-97b1-1d507f97b317", "6", "11"],
 
-["17","Wed 31/01/24<br/>10:00am-01:00pm<br/>MVB2.11/1.15", "Worksheet 1",                "https://github.com/UoB-OOP/COMS10017-2023/blob/main/week14.md", "", "0", "0"],
+["17","Wed 31/01/24<br/>10:00am-01:00pm<br/>MVB2.11/1.15", "Worksheet 1",                "https://github.com/UoB-OOP/COMS10017-2024/blob/main/week14.md", "", "0", "0"],
 
 ["0", "Fri 03/02/24<br/>03:00pm-03:50pm<br/>PHYS BLDG G42",   "Inheritance and Polymorphism II",       "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_07.pdf", "https://mediasite.bris.ac.uk/Mediasite/Play/8def98c80f4941a9a9460d01f33fabe01d", "6", "11"],
 
@@ -87,7 +87,7 @@ var activities = [
 
 ["0", "Fri 9/02/24<br/>03:00pm-03:50pm<br/>PHYS BLDG G42",   "Visitor Design Pattern II (Binary Treeckery)",       "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_10.pdf", "https://mediasite.bris.ac.uk/Mediasite/Play/4e323775bee445e6ab5c9093a284ecb51d", "21", "1"],
 
-["17","Wed 07/02/24<br/>10:00am-01:00pm<br/>MVB2.11/1.15", "Worksheet 2",                "https://github.com/UoB-OOP/COMS10017-2023/blob/main/week15.md", "", "0", "0"],
+["17","Wed 07/02/24<br/>10:00am-01:00pm<br/>MVB2.11/1.15", "Worksheet 2",                "https://github.com/UoB-OOP/COMS10017-2024/blob/main/week15.md", "", "0", "0"],
 
 ["18", "in your own time",   "Random Java Features and IntelliJ tips",       "https://mediasite.bris.ac.uk/Mediasite/Play/8545bbbbc2ec43d4bb8e06c2d9acce811d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_01_SHORT.pdf", "0", "0"],
 
@@ -103,7 +103,7 @@ var activities = [
 
 ["0", "Fri 16/02/24<br/>03:00pm-03:50pm<br/>PHYS BLDG G42",   "Encapsulation",       "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_13.pdf", "https://mediasite.bris.ac.uk/Mediasite/Play/fc99c87c31c845dcbfd553184fa5538d1d", "29", "1"],
 
-["17","Wed 14/02/24<br/>10:00am-01:00pm<br/>MVB2.11/1.15", "Worksheet 3",                "https://github.com/UoB-OOP/COMS10017-2023/blob/main/week16.md", "", "0", "0"],
+["17","Wed 14/02/24<br/>10:00am-01:00pm<br/>MVB2.11/1.15", "Worksheet 3",                "https://github.com/UoB-OOP/COMS10017-2024/blob/main/week16.md", "", "0", "0"],
 
 ["25", "<b>20min</b> (in your own time)",   "Immutables, Singleton, Reflection", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_14.pdf","https://mediasite.bris.ac.uk/Mediasite/Play/9c64524e546b454885b8b61fac7f94a11d",  "30", "3"],
 
@@ -121,7 +121,7 @@ var activities = [
 
 ["20", "<b>23min</b> (in your own time)",   "Practical application of Strategy Pattern",       "https://web.microsoftstream.com/video/f9668918-63b8-472b-960d-86e5790bd581", "", "36", "1"],
 
-["17","Wed 21/02/24<br/>10:00am-01:00pm<br/>MVB2.11/1.15", "Worksheet 4",                "https://github.com/UoB-OOP/COMS10017-2023/blob/main/week17.md", "", "0", "0"],
+["17","Wed 21/02/24<br/>10:00am-01:00pm<br/>MVB2.11/1.15", "Worksheet 4",                "https://github.com/UoB-OOP/COMS10017-2024/blob/main/week17.md", "", "0", "0"],
 
 ["18", "<b>5min</b> (in your own time)",   "Default Methods",       "https://web.microsoftstream.com/video/6ea3c780-a437-4642-9a4a-abe52f395233", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_02_SHORT.pdf", "0", "0"],
 
@@ -151,7 +151,7 @@ var activities = [
 
 ["0", "Mon 04/03/24<br/>11:00am-11:50am<br/>PHYS BLDG 1.11",   "Lambdas and Streams - theory",        "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_18.pdf","https://mediasite.bris.ac.uk/Mediasite/Play/cd2af72137b8406d916a103477abf0571d", "47", "2"],
 
-["7", "in your own time+labs", "WEEKS 19 - 23<br>SCOTLAND YARD TASK<br/><br/><a href='https://www.ole.bris.ac.uk/webapps/assignment/uploadAssignment?content_id=_7464274_1&course_id=_252988_1&group_id=&mode=view' target='_blank'>Submission Deadline:<br/> Thursday, xx April 2024 | 1pm<br/>(Blackboard)</a><br/>", "https://github.com/UoB-OOP/COMS10017-2023/blob/main/summative/README.md", "", "37", "8"],
+["7", "in your own time+labs", "WEEKS 19 - 23<br>SCOTLAND YARD TASK<br/><br/><a href='https://www.ole.bris.ac.uk/webapps/assignment/uploadAssignment?content_id=_7464274_1&course_id=_252988_1&group_id=&mode=view' target='_blank'>Submission Deadline:<br/> Thursday, xx April 2024 | 1pm<br/>(Blackboard)</a><br/>", "https://github.com/UoB-OOP/COMS10017-2024/blob/main/summative/README.md", "", "37", "8"],
 
 ["20", "<b>13min</b> (in your own time)",   "Dijkstra - theory",       "https://web.microsoftstream.com/video/e73a8b67-76f0-49d6-a1cc-671b8a218013", "", "45", "1"],
 
@@ -284,9 +284,9 @@ var files = [
 [  "34", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/code/Iterator.zip",               "Iterator.zip"],
 [  "35", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/code/Strategy.zip",               "Strategy.zip"],
 [  "36", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/code/2021/LiveCodingStrategy.zip",                 "LiveCodingStrategy.zip"],
-[  "37", "https://github.com/UoB-OOP/COMS10017-2023/blob/master/summative/README.md",                 "Project Page"],
+[  "37", "https://github.com/UoB-OOP/COMS10017-2024/blob/master/summative/README.md",                 "Project Page"],
 [  "38", "https://www.ravensburger.org/spielanleitungen/ecm/Spielanleitungen/26646%20anl%202050897_2.pdf?ossl=pds_text_Spielanleitung",                 "<hr>SY Game Booklet"],
-[  "39", "https://github.com/UoB-OOP/COMS10017-2023/blob/main/summative/cw-model.md#download-the-java-version-of-the-game",                 "<hr>Running SY"],
+[  "39", "https://github.com/UoB-OOP/COMS10017-2024/blob/main/summative/cw-model.md#download-the-java-version-of-the-game",                 "<hr>Running SY"],
 [  "40", "https://web.microsoftstream.com/video/6bab3abf-41f3-4a30-8643-4b07ce35301c",                 "<hr>Video: SY in IntelliJ"],
 [  "41", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/code/cw-model_2022.zip",                 "<hr>SY Skeleton Code"],
 [  "42", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/code/sy-remote-win_x86_64-linux_x86_64-mac_x86_64.jar",                 "<hr>Linux and Intel Mac Binary 2Play"],
