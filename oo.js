@@ -1,5 +1,5 @@
 //LAYOUT CUSTOMIZATION
-var currentWeek   = 18;                         // current week [releases content fully visible up to this week]
+var currentWeek   = 19;                         // current week [releases content fully visible up to this week]
 var activityNum   = 8;                         // number of activities per week (empty slots possible)
 var columnNum     = 4;                         // desired columns per week (yet, autofitted to max 2 rows per week)
 var title         = "OBJECT ORIENTED PROGRAMMING";  // content title (different to unitName since multiple content streams maybe in one unit)
@@ -151,7 +151,7 @@ var activities = [
 
 ["0", "Mon 04/03/24<br/>11:00am-11:50am<br/>PHYS BLDG 1.11",   "Lambdas and Streams - theory",        "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_18.pdf","https://mediasite.bris.ac.uk/Mediasite/Play/cd2af72137b8406d916a103477abf0571d", "47", "2"],
 
-["7", "in your own time+labs", "WEEKS 19 - 23<br>SCOTLAND YARD TASK<br/><br/><a href='https://www.ole.bris.ac.uk/webapps/assignment/uploadAssignment?content_id=_7464274_1&course_id=_252988_1&group_id=&mode=view' target='_blank'>Submission Deadline:<br/> Thursday, xx April 2024 | 1pm<br/>(Blackboard)</a><br/>", "https://github.com/UoB-OOP/COMS10017-2024/blob/main/summative/README.md", "", "37", "8"],
+["7", "in your own time+labs", "WEEKS 19 - 23<br>SCOTLAND YARD TASK (NOT YET AVAILABLE)<br/><br/><a href='#' target='_blank'>Submission Deadline:<br/> Thursday, xx xxxx 2024 | 1pm<br/>(Blackboard) NOT YET AVAILABLE</a><br/>", "https://github.com/UoB-OOP/COMS10017-2024/blob/main/summative/README.md", "", "37", "1"],
 
 ["20", "<b>13min</b> (in your own time)",   "Dijkstra - theory",       "https://web.microsoftstream.com/video/e73a8b67-76f0-49d6-a1cc-671b8a218013", "", "45", "1"],
 
