@@ -144,7 +144,7 @@ var activities = [
 
 
 //WEEK 19
-["27", "Mon 04/03/24<br/>11:00am-11:50am<br/>PHYS BLDG 1.11",   "Charlie's Lambdas and Streams Lecture",        "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/OOPStreamsLecture.pdf", "https://mediasite.bris.ac.uk/Mediasite/Play/80d2f2732cdc4470958b51be10caca5f1d","", ""],
+["27", "Mon 04/03/24<br/>11:00am-11:50am<br/>PHYS BLDG 1.11",   "Charlie's Lambdas and Streams Lecture",        "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/OOPStreamsLecture.pdf", "https://mediasite.bris.ac.uk/Mediasite/Play/84b67657be2d4bcca8b723890232c88a1d","", ""],
 
 ["0", "Mon 04/03/24<br/>11:00am-11:50am<br/>PHYS BLDG 1.11",   "Lambdas and Streams - applied",        "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_17.pdf", "https://mediasite.bris.ac.uk/Mediasite/Play/86d3e96a6eb94e61a6a5bcf6bfc4996d1d","47", "2"],
 
