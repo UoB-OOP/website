@@ -180,8 +180,9 @@ var activities = [
 ["8", "",                   "",                                "", "", "0", "0"],
 
 
+// NOTE THAT WEEK 21 and 22 first lecture swapped for 2024 as Sion had a meeting
 //WEEK 21
-["0", "Mon 18/03/24<br/>11:00am-11:50am<br/>PHYS BLDG 1.11",   "Abstract Data Types and Optionals", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_19.pdf",                        "https://web.microsoftstream.com/video/9a7fecbb-120b-46a4-8ce1-a8627422916e",  "0", "0"],
+["0", "Mon 18/03/24<br/>11:00am-11:50am<br/>PHYS BLDG 1.11",   "Abstract Factory",                "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_24.pdf", "https://mediasite.bris.ac.uk/Mediasite/Play/0cbcbee5633a496bb3abbcf3b798ad181d", "53", "1"],
 
 ["9", "",                   "",                                "", "", "0", "0"],
 
@@ -195,7 +196,8 @@ var activities = [
 ["8", "",                   "",                                "", "", "0", "0"],
 
 //WEEK 22
-["0", "Mon 15/04/24<br/>11:00am-11:50am<br/>PHYS BLDG 1.11",   "Abstract Factory",                "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_24.pdf", "https://mediasite.bris.ac.uk/Mediasite/Play/0cbcbee5633a496bb3abbcf3b798ad181d", "53", "1"],
+["0", "Mon 15/04/24<br/>11:00am-11:50am<br/>PHYS BLDG 1.11",   "Abstract Data Types and Optionals", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_19.pdf",                        "https://web.microsoftstream.com/video/9a7fecbb-120b-46a4-8ce1-a8627422916e",  "0", "0"],
+
 
 ["0", "Mon 15/04/24<br/>11:00am-11:50am<br/>PHYS BLDG 1.11",   "Adapter",           "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_25.pdf", "https://mediasite.bris.ac.uk/Mediasite/Play/a9ab513cfc234297943e6dc81dce96251d", "54", "1"],
 
