@@ -151,7 +151,7 @@ var activities = [
 
 ["0", "Mon 04/03/24<br/>11:00am-11:50am<br/>PHYS BLDG 1.11",   "Lambdas and Streams - theory",        "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_18.pdf","https://mediasite.bris.ac.uk/Mediasite/Play/cd2af72137b8406d916a103477abf0571d", "47", "2"],
 
-["7", "in your own time+labs", "WEEKS 19 - 23<br>SCOTLAND YARD TASK<br/><br/><a href='#' target='_blank'>Submission Deadline:<br/> Thursday, xx xxxx 2024 | 1pm<br/>(Blackboard) NOT YET AVAILABLE</a><br/>", "https://github.com/UoB-OOP/COMS10017-2024/blob/main/summative/README.md", "", "37", "5"],
+["7", "in your own time+labs", "WEEKS 19 - 23<br>SCOTLAND YARD TASK<br/><br/><a href='#' target='_blank'>Submission Deadline:<br/> Thursday, xx xxxx 2024 | 1pm<br/>(Blackboard) NOT YET AVAILABLE</a><br/>", "https://github.com/UoB-OOP/COMS10017-2024/blob/main/summative/README.md", "", "37", "6"],
 
 ["20", "<b>13min</b> (in your own time)",   "Dijkstra - theory",       "https://web.microsoftstream.com/video/e73a8b67-76f0-49d6-a1cc-671b8a218013", "", "45", "1"],
 
@@ -291,7 +291,7 @@ var files = [
 [  "39", "https://github.com/UoB-OOP/COMS10017-2024/blob/main/summative/cw-model.md#download-the-java-version-of-the-game",                 "<hr>Running SY"],
 [  "40", "https://web.microsoftstream.com/video/6bab3abf-41f3-4a30-8643-4b07ce35301c",                 "<hr>Video: SY in IntelliJ"],
 [  "41", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/code/cw-model.zip",                 "<hr>SY Skeleton Code"],
-[  "42", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/code/sy-remote-win_x86_64-linux_x86_64-mac_x86_64.jar",                 "<hr>Linux and Intel Mac Binary 2Play"],
+[  "42", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/code/cw-ai.zip",                 "<hr>SY AI Skeleton Code"],
 [  "43", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/code/sy-remote-win_x86_64-linux_x86_64-mac_x86_64.jar",             "<hr>Windows Binary 2Play"],
 [  "44", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/code/sy-remote-win_x86_64-linux_x86_64-mac_aarch64.jar",             "<hr>M1 Mac Binary 2Play"],
 [  "45", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/pdfs/COMS10017_Dijkstra.pdf",               "Dijkstra slides"],
