@@ -1,5 +1,5 @@
 //LAYOUT CUSTOMIZATION
-var currentWeek   = 24;                         // current week [releases content fully visible up to this week]
+var currentWeek   = 13;                         // current week [releases content fully visible up to this week]
 var activityNum   = 8;                         // number of activities per week (empty slots possible)
 var columnNum     = 4;                         // desired columns per week (yet, autofitted to max 2 rows per week)
 var title         = "OBJECT ORIENTED PROGRAMMING";  // content title (different to unitName since multiple content streams maybe in one unit)
@@ -57,7 +57,7 @@ var activities = [
 ["0", "Mon 13/01/25<br/>10:00am-10:50am<br/>CHEM BLDG LT1",   "Object's Birth I",       "https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10018-2024-25-TB-2-A/Class%20Materials/COMS10018_2024_TB-2/content/oo/pdfs/COMS10017_01.pdf", "https://web.microsoftstream.com/video/d073c8ec-9581-4337-8b9f-6ac2955057a0", "0", "2"],
 ["0", "Mon 13/01/25<br/>10:00am-10:50am<br/>CHEM BLDG LT1",   "Object's Birth II",       "https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10018-2024-25-TB-2-A/Class%20Materials/COMS10018_2024_TB-2/content/oo/pdfs/COMS10017_02.pdf", "https://mediasite.bris.ac.uk/Mediasite/Play/3d1bc0d3ea53436593b11992a6f470011d", "0", "2"],
 ["0", "Fri 17/01/25<br/>02:00pm-02:50pm<br/>PHYS BLDG G42",   "Java Basics",       "https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10018-2024-25-TB-2-A/Class%20Materials/COMS10018_2024_TB-2/content/oo/pdfs/COMS10017_03.pdf", "https://web.microsoftstream.com/video/d0ded4b9-333c-4416-aa69-bd77cffeb078", "2", "4"],
-["17","Wed 15/01/25<br/>09:00am-12:00pm<br/>MVB2.11/1.15", "Machine &amp; Repo Setup",                "https://github.com/UoB-OOP/COMS10017-2024/blob/main/week13.md", "", "0", "0"],
+["17","Wed 15/01/25<br/>09:00am-12:00pm<br/>MVB2.11/1.15", "Machine &amp; Repo Setup",                "https://github.com/UoB-OOP/COMS10018-2025/blob/main/week13.md", "", "0", "0"],
 ["9", "",                   "",                                "", "", "0", "0"],
 ["9", "",                   "",                                "", "", "0", "0"],
 ["9", "",                   "",                                "", "", "0", "0"],
@@ -72,7 +72,7 @@ var activities = [
 
 ["0", "Fri 24/01/25<br/>02:00pm-02:50pm<br/>PHYS BLDG G42",   "Inheritance and Polymorphism I",       "https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10018-2024-25-TB-2-A/Class%20Materials/COMS10018_2024_TB-2/content/oo/pdfs/COMS10017_06.pdf", "https://web.microsoftstream.com/video/0db9552b-fb92-4f81-97b1-1d507f97b317", "6", "11"],
 
-["17","Wed 22/01/25<br/>09:00am-12:00pm<br/>MVB2.11/1.15", "Worksheet 1",                "https://github.com/UoB-OOP/COMS10017-2024/blob/main/week14.md", "", "0", "0"],
+["17","Wed 22/01/25<br/>09:00am-12:00pm<br/>MVB2.11/1.15", "Worksheet 1",                "https://github.com/UoB-OOP/COMS10018-2025/blob/main/week14.md", "", "0", "0"],
 
 ["0", "Fri 24/01/25<br/>02:00pm-02:50pm<br/>PHYS BLDG G42",   "Inheritance and Polymorphism II",       "https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10018-2024-25-TB-2-A/Class%20Materials/COMS10018_2024_TB-2/content/oo/pdfs/COMS10017_07.pdf", "https://mediasite.bris.ac.uk/Mediasite/Play/8def98c80f4941a9a9460d01f33fabe01d", "6", "11"],
 
@@ -87,7 +87,7 @@ var activities = [
 
 ["0", "Fri 31/01/25<br/>02:00pm-02:50pm<br/>PHYS BLDG G42",   "Visitor Design Pattern II (Binary Treeckery)",       "https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10018-2024-25-TB-2-A/Class%20Materials/COMS10018_2024_TB-2/content/oo/pdfs/COMS10017_10.pdf", "https://mediasite.bris.ac.uk/Mediasite/Play/4e323775bee445e6ab5c9093a284ecb51d", "21", "1"],
 
-["17","Wed 29/01/25<br/>09:00am-12:00pm<br/>MVB2.11/1.15", "Worksheet 2",                "https://github.com/UoB-OOP/COMS10017-2024/blob/main/week15.md", "", "0", "0"],
+["17","Wed 29/01/25<br/>09:00am-12:00pm<br/>MVB2.11/1.15", "Worksheet 2",                "https://github.com/UoB-OOP/COMS10018-2025/blob/main/week15.md", "", "0", "0"],
 
 ["18", "in your own time",   "Random Java Features and IntelliJ tips",       "https://mediasite.bris.ac.uk/Mediasite/Play/8545bbbbc2ec43d4bb8e06c2d9acce811d", "https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10018-2024-25-TB-2-A/Class%20Materials/COMS10018_2024_TB-2/content/oo/pdfs/COMS10017_01_SHORT.pdf", "0", "0"],
 
@@ -103,7 +103,7 @@ var activities = [
 
 ["0", "Fri 07/02/25<br/>02:00pm-02:50pm<br/>PHYS BLDG G42",   "Encapsulation",       "https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10018-2024-25-TB-2-A/Class%20Materials/COMS10018_2024_TB-2/content/oo/pdfs/COMS10017_13.pdf", "https://mediasite.bris.ac.uk/Mediasite/Play/fc99c87c31c845dcbfd553184fa5538d1d", "29", "1"],
 
-["17","Wed 05/02/25<br/>09:00am-12:00pm<br/>MVB2.11/1.15", "Worksheet 3",                "https://github.com/UoB-OOP/COMS10017-2024/blob/main/week16.md", "", "0", "0"],
+["17","Wed 05/02/25<br/>09:00am-12:00pm<br/>MVB2.11/1.15", "Worksheet 3",                "https://github.com/UoB-OOP/COMS10018-2025/blob/main/week16.md", "", "0", "0"],
 
 ["25", "<b>20min</b> (in your own time)",   "Immutables, Singleton, Reflection", "https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10018-2024-25-TB-2-A/Class%20Materials/COMS10018_2024_TB-2/content/oo/pdfs/COMS10017_14.pdf","https://mediasite.bris.ac.uk/Mediasite/Play/9c64524e546b454885b8b61fac7f94a11d",  "30", "3"],
 
@@ -121,7 +121,7 @@ var activities = [
 
 ["20", "<b>23min</b> (in your own time)",   "Practical application of Strategy Pattern",       "https://web.microsoftstream.com/video/f9668918-63b8-472b-960d-86e5790bd581", "", "36", "1"],
 
-["17","Wed 12/02/25<br/>09:00am-12:00pm<br/>MVB2.11/1.15", "Worksheet 4",                "https://github.com/UoB-OOP/COMS10017-2024/blob/main/week17.md", "", "0", "0"],
+["17","Wed 12/02/25<br/>09:00am-12:00pm<br/>MVB2.11/1.15", "Worksheet 4",                "https://github.com/UoB-OOP/COMS10018-2025/blob/main/week17.md", "", "0", "0"],
 
 ["18", "<b>5min</b> (in your own time)",   "Default Methods",       "https://web.microsoftstream.com/video/6ea3c780-a437-4642-9a4a-abe52f395233", "https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10018-2024-25-TB-2-A/Class%20Materials/COMS10018_2024_TB-2/content/oo/pdfs/COMS10017_02_SHORT.pdf", "0", "0"],
 
@@ -151,7 +151,7 @@ var activities = [
 
 ["0", "Mon 24/02/25<br/>10:00am-10:50am<br/>CHEM BLDG LT1",   "Lambdas and Streams - theory",        "https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10018-2024-25-TB-2-A/Class%20Materials/COMS10018_2024_TB-2/content/oo/pdfs/COMS10017_18.pdf","https://mediasite.bris.ac.uk/Mediasite/Play/cd2af72137b8406d916a103477abf0571d", "47", "2"],
 
-["7", "in your own time+labs", "WEEKS 19 - 23<br>SCOTLAND YARD TASK<br/><br/><a href='https://www.ole.bris.ac.uk/webapps/assignment/uploadAssignment?content_id=_8307458_1&course_id=_257218_1&group_id=&mode=view' target='_blank'>Submission Deadline:<br/> Thursday, 27 March 2025 | 1pm<br/>(Blackboard) HERE</a><br/>", "https://github.com/UoB-OOP/COMS10017-2024/blob/main/summative/README.md", "", "37", "6"],
+["7", "in your own time+labs", "WEEKS 19 - 23<br>SCOTLAND YARD TASK<br/><br/><a href='https://www.ole.bris.ac.uk/webapps/assignment/uploadAssignment?content_id=_8307458_1&course_id=_257218_1&group_id=&mode=view' target='_blank'>Submission Deadline:<br/> Thursday, 27 March 2025 | 1pm<br/>(Blackboard) HERE</a><br/>", "https://github.com/UoB-OOP/COMS10018-2025/blob/main/summative/README.md", "", "37", "6"],
 
 ["20", "<b>13min</b> (in your own time)",   "Dijkstra - theory",       "https://web.microsoftstream.com/video/e73a8b67-76f0-49d6-a1cc-671b8a218013", "", "45", "1"],
 
@@ -285,9 +285,9 @@ var files = [
 [  "34", "https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10018-2024-25-TB-2-A/Class%20Materials/COMS10018_2024_TB-2/content/oo/code/Iterator.zip",               "Iterator.zip"],
 [  "35", "https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10018-2024-25-TB-2-A/Class%20Materials/COMS10018_2024_TB-2/content/oo/code/Strategy.zip",               "Strategy.zip"],
 [  "36", "https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10018-2024-25-TB-2-A/Class%20Materials/COMS10018_2024_TB-2/content/oo/code/2021/LiveCodingStrategy.zip",                 "LiveCodingStrategy.zip"],
-[  "37", "https://github.com/UoB-OOP/COMS10017-2024/blob/main/summative/README.md",                 "Project Page"],
+[  "37", "https://github.com/UoB-OOP/COMS10018-2025/blob/main/summative/README.md",                 "Project Page"],
 [  "38", "https://www.ravensburger.org/spielanleitungen/ecm/Spielanleitungen/26646%20anl%202050897_2.pdf?ossl=pds_text_Spielanleitung",                 "<hr>SY Game Booklet"],
-[  "39", "https://github.com/UoB-OOP/COMS10017-2024/blob/main/summative/cw-model.md#download-the-java-version-of-the-game",                 "<hr>Running SY"],
+[  "39", "https://github.com/UoB-OOP/COMS10018-2025/blob/main/summative/cw-model.md#download-the-java-version-of-the-game",                 "<hr>Running SY"],
 [  "40", "https://web.microsoftstream.com/video/6bab3abf-41f3-4a30-8643-4b07ce35301c",                 "<hr>Video: SY in IntelliJ"],
 [  "41", "https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10018-2024-25-TB-2-A/Class%20Materials/COMS10018_2024_TB-2/content/oo/code/cw-model.zip",                 "<hr>SY Model Skeleton Code"],
 [  "42", "https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10018-2024-25-TB-2-A/Class%20Materials/COMS10018_2024_TB-2/content/oo/code/cw-ai.zip",                 "<hr>SY AI Skeleton Code"],
