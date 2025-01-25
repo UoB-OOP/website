@@ -1,5 +1,5 @@
 //LAYOUT CUSTOMIZATION
-var currentWeek   = 14;                         // current week [releases content fully visible up to this week]
+var currentWeek   = 15;                         // current week [releases content fully visible up to this week]
 var activityNum   = 8;                         // number of activities per week (empty slots possible)
 var columnNum     = 4;                         // desired columns per week (yet, autofitted to max 2 rows per week)
 var title         = "OBJECT ORIENTED PROGRAMMING";  // content title (different to unitName since multiple content streams maybe in one unit)
@@ -77,7 +77,7 @@ var activities = [
 ["0", "Fri 24/01/25<br/>02:00pm-02:50pm<br/>PHYS BLDG G42",   "Inheritance and Polymorphism II",       "https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10018-2024-25-TB-2-A/Class%20Materials/COMS10018_2024_TB-2/content/oo/pdfs/COMS10017_07.pdf", "https://mediasite.bris.ac.uk/Mediasite/Play/8def98c80f4941a9a9460d01f33fabe01d", "6", "11"],
 
 ["9", "",                   "",                                "", "", "0", "0"],
-["19", "solution to weekly lab", "Object's Life, Inheritance and Polymorphism WEEK 14<br/>Worksheet 1 SOLUTION (NOT YET AVAILABLE)<br/><br/>", "#", "", "0", "0"],
+["19", "solution to weekly lab", "Object's Life, Inheritance and Polymorphism WEEK 14<br/>Worksheet 1 SOLUTION<br/><br/>", "https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10018-2024-25-TB-2-A/Class%20Materials/COMS10018_2024_TB-2/content/oo/pdfs/sheet1_solutions.pdf", "", "0", "0"],
 ["16", "during weekly labs", "Programming Pair Signup<hr/>Signup with exactly TWO comma-separated usernames (of the team members) in the participants field.", "https://forms.office.com/Pages/ResponsePage.aspx?id=MH_ksn3NTkql2rGM8aQVG5TYLt38e8ROncCR1HCbQnJUQ0sxQVVEWjFLUDlBMlFQQlU4MzBUUzQyQy4u", "", "0", "0"],
 
 //WEEK 15
