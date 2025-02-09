@@ -127,9 +127,10 @@ var activities = [
 
 ["9", "",                   "",                                "", "", "0", "0"],
 
-["9", "",                   "",                                "", "", "0", "0"],
+["19", "Visitor solutions", "WEEK 16<br/>Visitor SOLUTION<br/><br/>", "https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10018-2024-25-TB-2-A/Class%20Materials/COMS10018_2024_TB-2/content/oo/pdfs/house-visitor-solutions.zip", "", "0", "0"],
 
 ["19", "solution to weekly lab", "WEEK 16<br/>Worksheet 3 SOLUTION<br/><br/>", "https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10018-2024-25-TB-2-A/Class%20Materials/COMS10018_2024_TB-2/content/oo/pdfs/sheet3_solutions.pdf", "", "0", "0"],
+
 
 
 //WEEK 18
