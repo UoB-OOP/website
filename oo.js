@@ -1,5 +1,5 @@
 //LAYOUT CUSTOMIZATION
-var currentWeek   = 18;                         // current week [releases content fully visible up to this week]
+var currentWeek   = 19;                         // current week [releases content fully visible up to this week]
 var activityNum   = 8                         // number of activities per week (empty slots possible)
 var columnNum     = 4;                         // desired columns per week (yet, autofitted to max 2 rows per week)
 var title         = "OBJECT ORIENTED PROGRAMMING";  // content title (different to unitName since multiple content streams maybe in one unit)
@@ -152,7 +152,7 @@ var activities = [
 
 ["0", "Mon 24/02/25<br/>10:00am-10:50am<br/>CHEM BLDG LT1",   "Lambdas and Streams - theory",        "https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10018-2024-25-TB-2-A/Class%20Materials/COMS10018_2024_TB-2/content/oo/pdfs/COMS10017_18.pdf","https://mediasite.bris.ac.uk/Mediasite/Play/cd2af72137b8406d916a103477abf0571d", "47", "2"],
 
-["7", "in your own time+labs", "WEEKS 19 - 23<br>SCOTLAND YARD TASK<br/><br/><a href='https://www.ole.bris.ac.uk/webapps/assignment/uploadAssignment?content_id=_8307458_1&course_id=_257218_1&group_id=&mode=view' target='_blank'>Submission Deadline:<br/> Thursday, 27 March 2025 | 1pm<br/>(Blackboard) HERE</a><br/>", "https://github.com/UoB-OOP/COMS10018-2025/blob/main/summative/README.md", "", "37", "6"],
+["7", "in your own time+labs", "WEEKS 17.5 - 22<br>SCOTLAND YARD TASK<br/><br/><a href='#' target='_blank'>Submission Deadline:<br/> End of Week 10 | 1pm<br/>(Blackboard) HERE</a><br/>", "https://github.com/UoB-OOP/COMS10018-2025/blob/main/summative/README.md", "", "37", "6"],
 
 ["20", "<b>13min</b> (in your own time)",   "Dijkstra - theory",       "https://uob-my.sharepoint.com/:v:/r/personal/sh1670_bristol_ac_uk/Documents/Stream%20Migrated%20Videos/COMS10017%20-%20Dijkstra%27s%20Algorithm%20(for%20OOP)-20211222_032910.mp4?csf=1&web=1&e=mFEKIX&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D", "", "45", "1"],
 
