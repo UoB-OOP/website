@@ -1,5 +1,5 @@
 //LAYOUT CUSTOMIZATION
-var currentWeek   = 20;                         // current week [releases content fully visible up to this week]
+var currentWeek   = 21;                         // current week [releases content fully visible up to this week]
 var activityNum   = 8                         // number of activities per week (empty slots possible)
 var columnNum     = 4;                         // desired columns per week (yet, autofitted to max 2 rows per week)
 var title         = "OBJECT ORIENTED PROGRAMMING";  // content title (different to unitName since multiple content streams maybe in one unit)
@@ -186,7 +186,7 @@ var activities = [
 
 ["9", "",                   "",                                "", "", "0", "0"],
 
-["26", "Fri 14/03/25<br/>02:00pm-02:50pm<br/>PHYS BLDG G42",   "Scotland Yard Q&A (advance, ticket board and observer)",        "https://mediasite.bris.ac.uk/Mediasite/Play/0c9906af78844aa7ad72ec5821dd14801d","", "", ""],
+["26", "Fri 14/03/25<br/>02:00pm-02:50pm<br/>PHYS BLDG G42",   "Scotland Yard Q&A",        "#","", "", ""],
 
 ["8", "",                   "",                                "", "", "0", "0"],
 
