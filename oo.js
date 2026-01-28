@@ -80,7 +80,7 @@ var activities = [
 
 ["9", "",                   "",                                "", "", "0", "0"],
 ["19", "solution to weekly lab", "Object's Life, Inheritance and Polymorphism WEEK 14<br/>Worksheet 1 SOLUTION<br/><br/>", "", "", "0", "0"],
-["16", "during weekly labs", "Programming Pair Signup<hr/>Signup with exactly TWO comma-separated usernames (of the team members) in the participants field.", "https://forms.office.com/Pages/ResponsePage.aspx?id=MH_ksn3NTkql2rGM8aQVG5TYLt38e8ROncCR1HCbQnJUQ0sxQVVEWjFLUDlBMlFQQlU4MzBUUzQyQy4u", "", "0", "0"],
+["16", "during weekly labs", "Pair / Group of Three Signup (queries email: coms-courseworkvivas@bristol.ac.uk)<hr/>Signup with exactly TWO or THREE comma-separated usernames (of the team members) in the participants field.", "https://forms.office.com/Pages/ResponsePage.aspx?id=MH_ksn3NTkql2rGM8aQVG5TYLt38e8ROncCR1HCbQnJUQTUxOFQxTVk4MFNOQllMM1pSQVQxTTVETy4u", "", "0", "0"],
 
 //WEEK 15
 ["0", "Mon 02/02/26<br/> 3:00pm-3:50pm<br/>CHEM BLDG LT1",   "Polymorphism and Double Dispatch",       "https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10018-2025-26-TB-2-A/Class%20Materials/COMS10018_2025_TB-2/content/oo/pdfs/COMS10017_08.pdf", "https://uob-my.sharepoint.com/:v:/r/personal/sh1670_bristol_ac_uk/Documents/Stream%20Migrated%20Videos/COMS10017%20-%20Polymorphism%20and%20Double%20Dispatch-20211222_032322.mp4?csf=1&web=1&e=aeXoSD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D", "17", "2"],
