@@ -1,5 +1,5 @@
 //LAYOUT CUSTOMIZATION
-var currentWeek   = 17;                         // current week [releases content fully visible up to this week]
+var currentWeek   = 19;                         // current week [releases content fully visible up to this week]
 var activityNum   = 8                         // number of activities per week (empty slots possible)
 var columnNum     = 4;                         // desired columns per week (yet, autofitted to max 2 rows per week)
 var title         = "OBJECT ORIENTED PROGRAMMING";  // content title (different to unitName since multiple content streams maybe in one unit)
@@ -47,6 +47,7 @@ var categories = [
 ["25", "Video Only Lecture",             "#FFAAAA","1","Video Link","Code",          ],
 ["26", "Q&A",             "#AAFFAA","1","","",          ],
 ["27", "Extra Lecture",             "#FFA500","1","Revision Video","Code",          ],
+["28", "Legacy content",             "#E3E3E3","1","Revision Video","Code",          ],
 ];
 //WEEKLY ACTIVITIES
 //CATEGORY NUM, DATE|TIME, ACTIVITY TITLE, ACTIVITY URL, SLIDES URL, MATERIAL START, MATERIAL RANGE
@@ -148,21 +149,25 @@ var activities = [
 //WEEK 19
 ["27", "Mon 02/03/26<br/> 3:00pm-3:50pm<br/>CHEM BLDG LT1",   "Charlie's Lambdas and Streams Lecture",        "https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10018-2025-26-TB-2-A/Class%20Materials/COMS10018_2025_TB-2/content/oo/pdfs/OOPStreamsLecture.pdf", "https://mediasite.bris.ac.uk/Mediasite/Play/84b67657be2d4bcca8b723890232c88a1d","", ""],
 
-["0", "Mon 02/03/26<br/> 3:00pm-3:50pm<br/>CHEM BLDG LT1",   "Lambdas and Streams - applied",        "https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10018-2025-26-TB-2-A/Class%20Materials/COMS10018_2025_TB-2/content/oo/pdfs/COMS10017_17.pdf", "https://mediasite.bris.ac.uk/Mediasite/Play/86d3e96a6eb94e61a6a5bcf6bfc4996d1d","47", "2"],
+["28", "<b>21min</b> (in your own time)",   "Lambdas and Streams - applied",        "https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10018-2025-26-TB-2-A/Class%20Materials/COMS10018_2025_TB-2/content/oo/pdfs/COMS10017_17.pdf", "https://mediasite.bris.ac.uk/Mediasite/Play/86d3e96a6eb94e61a6a5bcf6bfc4996d1d","47", "2"],
 
+["27", "Fri 06/03/26<br/> 9:00am-9:50am<br/>CHEM BLDG LT1",   "Charlie's Advanced Streams Lecture",        "https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10018-2025-26-TB-2-A/Class%20Materials/COMS10018_2025_TB-2/content/oo/pdfs/AdvancedStreams.pdf", "#","", ""],
 
-["0", "Mon 02/03/26<br/> 3:00pm-3:50pm<br/>CHEM BLDG LT1",   "Lambdas and Streams - theory",        "https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10018-2025-26-TB-2-A/Class%20Materials/COMS10018_2025_TB-2/content/oo/pdfs/COMS10017_18.pdf","https://mediasite.bris.ac.uk/Mediasite/Play/cd2af72137b8406d916a103477abf0571d", "47", "2"],
+["7", "in your own time+labs", "WEEKS 18 - 22<br>SCOTLAND YARD TASK<br/><br/><a href='https://www.ole.bris.ac.uk/ultra/courses/_264154_1/outline/assessment/test/_9730956_1?courseId=_264154_1&gradeitemView=details' target='_blank'>Submission Deadline:<br/> 16/04/2026 | 1pm<br/>(Blackboard) HERE</a><br/>", "https://github.com/UoB-OOP/COMS10018-2026/blob/main/summative/README.md", "", "37", "6"],
 
-["7", "in your own time+labs", "WEEKS 17.5 - 22<br>SCOTLAND YARD TASK<br/><br/><a href='https://www.ole.bris.ac.uk/ultra/courses/_259157_1/outline/assessment/test/_9302868_1?courseId=_259157_1&gradeitemView=details' target='_blank'>Submission Deadline:<br/> Friday 21st March | 1pm<br/>(Blackboard) HERE</a><br/>", "https://github.com/UoB-OOP/COMS10018-2026/blob/main/summative/README.md", "", "37", "6"],
+["28", "<b>20min</b> (in your own time)",   "Lambdas and Streams - theory",        "https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10018-2025-26-TB-2-A/Class%20Materials/COMS10018_2025_TB-2/content/oo/pdfs/COMS10017_18.pdf","https://mediasite.bris.ac.uk/Mediasite/Play/cd2af72137b8406d916a103477abf0571d", "47", "2"],
 
+["9", "",                   "",                                "", "", "0", "0"],
+
+["9", "",                   "",                                "", "", "0", "0"],
+
+["8", "",                   "",                                "", "", "0", "0"],
+
+<!--
 ["20", "<b>13min</b> (in your own time)",   "Dijkstra - theory",       "https://uob-my.sharepoint.com/:v:/r/personal/sh1670_bristol_ac_uk/Documents/Stream%20Migrated%20Videos/COMS10017%20-%20Dijkstra%27s%20Algorithm%20(for%20OOP)-20211222_032910.mp4?csf=1&web=1&e=mFEKIX&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D", "", "45", "1"],
 
 ["20", "<b>20min</b> (in your own time)",   "Dijkstra - implementation",       "https://uob-my.sharepoint.com/:v:/r/personal/sh1670_bristol_ac_uk/Documents/Stream%20Migrated%20Videos/OOP%20Live%20coding%202(b)-20210311_095327.mp4?csf=1&web=1&e=lUtO5f&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D", "", "45", "2"],
-
-
-["26", "Fri 06/03/26<br/> 9:00am-9:50am<br/>CHEM BLDG LT1",   "Scotland Yard Q&A and Dijkstra Recap (if time)",        "#","", "", ""],
-
-["8", "",                   "",                                "", "", "0", "0"],
+-->
 
 //WEEK 20
 ["25", "<b>24min</b> (in your own time)",   "Abstract Data Types and Optionals",              "https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10018-2025-26-TB-2-A/Class%20Materials/COMS10018_2025_TB-2/content/oo/pdfs/COMS10017_19.pdf", "https://uob-my.sharepoint.com/:v:/r/personal/sh1670_bristol_ac_uk/Documents/Stream%20Migrated%20Videos/COMS10017%20-%20ADTs-20211222_033208.mp4?csf=1&web=1&e=0Q8GxM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D","0", "0"],
@@ -291,7 +296,7 @@ var files = [
 [  "38", "https://www.ravensburger.org/spielanleitungen/ecm/Spielanleitungen/26646%20anl%202050897_2.pdf?ossl=pds_text_Spielanleitung",                 "<hr>SY Game Booklet"],
 [  "39", "https://github.com/UoB-OOP/COMS10018-2026/blob/main/summative/cw-model.md#download-the-java-version-of-the-game",                 "<hr>Running SY"],
 [  "40", "https://uob-my.sharepoint.com/:v:/r/personal/sh1670_bristol_ac_uk/Documents/Stream%20Migrated%20Videos/Opening%20Scotland%20Yard%20skeleton%20with%20IntelliJ-20210307_100332.mp4?csf=1&web=1&e=8Y1OwN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D",                 "<hr>Video: SY in IntelliJ"],
-[  "41", "https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10018-2025-26-TB-2-A/Class%20Materials/COMS10018_2025_TB-2/content/oo/code/cw-model_2025.zip",                 "<hr>SY Model Skeleton Code"],
+[  "41", "https://github.com/UoB-OOP/COMS10018-2026_staging/blob/main/summative/cw-model.md#model-skeleton-download",                 "<hr>SY Model Skeleton Code"],
 [  "42", "https://github.com/UoB-OOP/COMS10018-2026/blob/main/summative/cw-ai.md#getting-started",                 "<hr>SY AI Skeleton Code"],
 [  "43", "https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10018-2025-26-TB-2-A/Class%20Materials/COMS10018_2025_TB-2/content/oo/code/sy-remote-win_x86_64-linux_x86_64-mac_x86_64.jar",             "<hr>Windows Binary 2Play"],
 [  "44", "https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10018-2025-26-TB-2-A/Class%20Materials/COMS10018_2025_TB-2/content/oo/code/sy-remote-win_x86_64-linux_x86_64-mac_aarch64.jar",             "<hr>M1 Mac Binary 2Play"],

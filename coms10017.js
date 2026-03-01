@@ -2,7 +2,7 @@
 var unitName      = "Object Oriented Programming and Algorithms I";
 var unitCode      = "COMS10018";
 var startWeekNum  = 13;                         // start week number [usual start is week 1 or 13]
-var totalWeeks    = 6;                          // total teaching weeks for unit [usually 12]
+var totalWeeks    = 7;                          // total teaching weeks for unit [usually 12]
 
 //PAGE TITLE CONTENT (IF ANY)
 var topicsNum = 3; // num of topics to render in title, that is 1 plus max index, -1 for no topics
