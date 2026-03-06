@@ -1,5 +1,5 @@
 //LAYOUT CUSTOMIZATION
-var currentWeek   = 19;                         // current week [releases content fully visible up to this week]
+var currentWeek   = 20;                         // current week [releases content fully visible up to this week]
 var activityNum   = 8                         // number of activities per week (empty slots possible)
 var columnNum     = 4;                         // desired columns per week (yet, autofitted to max 2 rows per week)
 var title         = "OBJECT ORIENTED PROGRAMMING";  // content title (different to unitName since multiple content streams maybe in one unit)
@@ -147,11 +147,11 @@ var activities = [
 
 
 //WEEK 19
-["27", "Mon 02/03/26<br/> 3:00pm-3:50pm<br/>CHEM BLDG LT1",   "Charlie's Lambdas and Streams Lecture",        "https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10018-2025-26-TB-2-A/Class%20Materials/COMS10018_2025_TB-2/content/oo/pdfs/OOPStreamsLecture.pdf", "https://mediasite.bris.ac.uk/Mediasite/Play/84b67657be2d4bcca8b723890232c88a1d","", ""],
+["27", "Mon 02/03/26<br/> 3:00pm-3:50pm<br/>CHEM BLDG LT1",   "Charlie's Lambdas and Streams Lecture",        "https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10018-2025-26-TB-2-A/Class%20Materials/COMS10018_2025_TB-2/content/oo/pdfs/OOPStreamsLecture.pdf", "https://mediasite.bris.ac.uk/Mediasite/Play/b8b35740de61485795f9046afc5819b21d","", ""],
 
 ["28", "<b>21min</b> (in your own time)",   "Lambdas and Streams - applied",        "https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10018-2025-26-TB-2-A/Class%20Materials/COMS10018_2025_TB-2/content/oo/pdfs/COMS10017_17.pdf", "https://mediasite.bris.ac.uk/Mediasite/Play/86d3e96a6eb94e61a6a5bcf6bfc4996d1d","47", "2"],
 
-["27", "Fri 06/03/26<br/> 9:00am-9:50am<br/>CHEM BLDG LT1",   "Charlie's Advanced Streams Lecture",        "https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10018-2025-26-TB-2-A/Class%20Materials/COMS10018_2025_TB-2/content/oo/pdfs/AdvancedStreams.pdf", "#","", ""],
+["27", "Fri 06/03/26<br/> 9:00am-9:50am<br/>CHEM BLDG LT1",   "Charlie's Advanced Streams Lecture",        "https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10018-2025-26-TB-2-A/Class%20Materials/COMS10018_2025_TB-2/content/oo/pdfs/AdvancedStreams.pdf", "https://mediasite.bris.ac.uk/Mediasite/Play/2f87753ed6f142e8b05bcb066414fdfc1d","", ""],
 
 ["7", "in your own time+labs", "WEEKS 18 - 22<br>SCOTLAND YARD TASK<br/><br/><a href='https://www.ole.bris.ac.uk/ultra/courses/_264154_1/outline/assessment/test/_9730956_1?courseId=_264154_1&gradeitemView=details' target='_blank'>Submission Deadline:<br/> 16/04/2026 | 1pm<br/>(Blackboard) HERE</a><br/>", "https://github.com/UoB-OOP/COMS10018-2026/blob/main/summative/README.md", "", "37", "6"],
 
@@ -163,42 +163,42 @@ var activities = [
 
 ["8", "",                   "",                                "", "", "0", "0"],
 
-<!--
-["20", "<b>13min</b> (in your own time)",   "Dijkstra - theory",       "https://uob-my.sharepoint.com/:v:/r/personal/sh1670_bristol_ac_uk/Documents/Stream%20Migrated%20Videos/COMS10017%20-%20Dijkstra%27s%20Algorithm%20(for%20OOP)-20211222_032910.mp4?csf=1&web=1&e=mFEKIX&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D", "", "45", "1"],
-
-["20", "<b>20min</b> (in your own time)",   "Dijkstra - implementation",       "https://uob-my.sharepoint.com/:v:/r/personal/sh1670_bristol_ac_uk/Documents/Stream%20Migrated%20Videos/OOP%20Live%20coding%202(b)-20210311_095327.mp4?csf=1&web=1&e=lUtO5f&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D", "", "45", "2"],
--->
 
 //WEEK 20
-["25", "<b>24min</b> (in your own time)",   "Abstract Data Types and Optionals",              "https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10018-2025-26-TB-2-A/Class%20Materials/COMS10018_2025_TB-2/content/oo/pdfs/COMS10017_19.pdf", "https://uob-my.sharepoint.com/:v:/r/personal/sh1670_bristol_ac_uk/Documents/Stream%20Migrated%20Videos/COMS10017%20-%20ADTs-20211222_033208.mp4?csf=1&web=1&e=0Q8GxM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D","0", "0"],
-
 ["0", "Mon 09/03/26<br/> 3:00pm-3:50pm<br/>CHEM BLDG LT1",   "Design Patterns",                 "https://mediasite.bris.ac.uk/Mediasite/Play/5f11db8d83bd42a39a478abbbd5c87ca1d", "https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10018-2025-26-TB-2-A/Class%20Materials/COMS10018_2025_TB-2/content/oo/pdfs/COMS10017_20.pdf", "34", "1"],
 
 ["0", "Mon 09/03/26<br/> 3:00pm-3:50pm<br/>CHEM BLDG LT1",   "Observer",                        "https://mediasite.bris.ac.uk/Mediasite/Play/8e38c7577c2f4dfd930747bdebc4c10c1d", "https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10018-2025-26-TB-2-A/Class%20Materials/COMS10018_2025_TB-2/content/oo/pdfs/COMS10017_21.pdf", "49", "2"],
 
+["27", "Fri 13/03/26<br/> 9:00am-9:50am<br/>CHEM BLDG LT1",   "Charlie's Breaking the Rules & Design Patterns Vs Language Features",        "https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10018-2025-26-TB-2-A/Class%20Materials/COMS10018_2025_TB-2/content/oo/pdfs/BreakingTheRulesAndDesignPatternsVsLanguageFeatures.pdf", "#","", ""],
+
 ["8", "",                   "",                                "", "", "0", "0"],
 
-["0", "Fri 13/03/26<br/> 9:00am-9:50am<br/>CHEM BLDG LT1",   "Model-View-Controller",           "https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10018-2025-26-TB-2-A/Class%20Materials/COMS10018_2025_TB-2/content/oo/pdfs/COMS10017_22.pdf", "https://mediasite.bris.ac.uk/Mediasite/Play/09d684e9d7b644d69ef88a0765bc023f1d", "50", "2"],
+["25", "<b>12min</b> (in your own time)",   "Model-View-Controller",           "https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10018-2025-26-TB-2-A/Class%20Materials/COMS10018_2025_TB-2/content/oo/pdfs/COMS10017_22.pdf", "https://mediasite.bris.ac.uk/Mediasite/Play/09d684e9d7b644d69ef88a0765bc023f1d", "50", "2"],
 
-["0", "Fri 13/03/26<br/> 9:00am-9:50am<br/>CHEM BLDG LT1",   "Factory Method",                   "https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10018-2025-26-TB-2-A/Class%20Materials/COMS10018_2025_TB-2/content/oo/pdfs/COMS10017_23.pdf", "https://mediasite.bris.ac.uk/Mediasite/Play/859563f8ab9f494cb7be9597ac5d149f1d","52", "1"],
+["25", "<b>19min</b> (in your own time)",   "Factory Method",                   "https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10018-2025-26-TB-2-A/Class%20Materials/COMS10018_2025_TB-2/content/oo/pdfs/COMS10017_23.pdf", "https://mediasite.bris.ac.uk/Mediasite/Play/859563f8ab9f494cb7be9597ac5d149f1d","52", "1"],
 
-["9", "",                   "",                                "", "", "0", "0"],
+["25", "<b>24min</b> (in your own time)",   "Abstract Data Types and Optionals",              "https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10018-2025-26-TB-2-A/Class%20Materials/COMS10018_2025_TB-2/content/oo/pdfs/COMS10017_19.pdf", "https://uob-my.sharepoint.com/:v:/r/personal/sh1670_bristol_ac_uk/Documents/Stream%20Migrated%20Videos/COMS10017%20-%20ADTs-20211222_033208.mp4?csf=1&web=1&e=0Q8GxM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D","0", "0"],
+
 
 ["8", "",                   "",                                "", "", "0", "0"],
 
 
 //WEEK 21
-["0", "Mon 16/03/26<br/> 3:00pm-3:50pm<br/>CHEM BLDG LT1",   "Abstract Factory",                "https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10018-2025-26-TB-2-A/Class%20Materials/COMS10018_2025_TB-2/content/oo/pdfs/COMS10017_24.pdf", "https://mediasite.bris.ac.uk/Mediasite/Play/0cbcbee5633a496bb3abbcf3b798ad181d", "53", "1"],
+["27", "Fri 16/03/26<br/> 9:00am-9:50am<br/>CHEM BLDG LT1",   "Shuo's Dikstra's lecture",        "#", "#","", ""],
 
 ["9", "",                   "",                                "", "", "0", "0"],
 
-["26", "Fri 20/03/26<br/> 9:00am-9:50am<br/>CHEM BLDG LT1",   "Scotland Yard Q&A",        "#","", "", ""],
+["27", "Fri 20/03/26<br/> 9:00am-9:50am<br/>CHEM BLDG LT1",   "Shuo's Theory lecture - game trees",        "#", "#","", ""],
 
 ["8", "",                   "",                                "", "", "0", "0"],
 
-["15","",                   "",                                "", "", "0", "0"],
-["9", "",                   "",                                "", "", "0", "0"],
-["15","",                   "",                                "", "", "0", "0"],
+["20", "<b>13min</b> (in your own time)",   "Dijkstra - theory",       "https://uob-my.sharepoint.com/:v:/r/personal/sh1670_bristol_ac_uk/Documents/Stream%20Migrated%20Videos/COMS10017%20-%20Dijkstra%27s%20Algorithm%20(for%20OOP)-20211222_032910.mp4?csf=1&web=1&e=mFEKIX&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D", "", "45", "1"],
+
+["20", "<b>20min</b> (in your own time)",   "Dijkstra - implementation",       "https://uob-my.sharepoint.com/:v:/r/personal/sh1670_bristol_ac_uk/Documents/Stream%20Migrated%20Videos/OOP%20Live%20coding%202(b)-20210311_095327.mp4?csf=1&web=1&e=lUtO5f&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D", "", "45", "2"],
+
+["0", "<b>15min</b> (in your own time)",   "Abstract Factory",                "https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10018-2025-26-TB-2-A/Class%20Materials/COMS10018_2025_TB-2/content/oo/pdfs/COMS10017_24.pdf", "https://mediasite.bris.ac.uk/Mediasite/Play/0cbcbee5633a496bb3abbcf3b798ad181d", "53", "1"],
+
+
 ["8", "",                   "",                                "", "", "0", "0"],
 
 //WEEK 22
