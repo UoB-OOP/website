@@ -184,7 +184,7 @@ var activities = [
 
 
 //WEEK 21
-["27", "Fri 16/03/26<br/> 9:00am-9:50am<br/>CHEM BLDG LT1",   "Shuo's Dikstra's lecture",        "#", "#","", ""],
+["27", "Fri 16/03/26<br/> 9:00am-9:50am<br/>CHEM BLDG LT1",   "Shuo's Dikstra's lecture",        "https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10018-2025-26-TB-2-A/Class%20Materials/COMS10018_2025_TB-2/content/oo/pdfs/Dijkstra_and_Games_party_I.pdf", "#","", ""],
 
 ["9", "",                   "",                                "", "", "0", "0"],
 
