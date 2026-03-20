@@ -188,7 +188,7 @@ var activities = [
 
 ["9", "",                   "",                                "", "", "0", "0"],
 
-["27", "Fri 20/03/26<br/> 9:00am-9:50am<br/>CHEM BLDG LT1",   "Shuo's Theory lecture - game trees",        "#", "#","", ""],
+["27", "Fri 20/03/26<br/> 9:00am-9:50am<br/>CHEM BLDG LT1",   "Shuo's Theory lecture - game trees",        "https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10018-2025-26-TB-2-A/Class%20Materials/COMS10018_2025_TB-2/content/oo/pdfs/MinimaxandMCTS.pdf", "#","", ""],
 
 ["8", "",                   "",                                "", "", "0", "0"],
 
